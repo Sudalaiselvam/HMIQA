@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_MPC23_VerifySelectionOfMultipleCompensationModelInAddContractPopup</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>7eba83bd-8a7b-434f-bd44-96bbf9c64839</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/02_ManageProviderContract/MPC23_VerifySelectionOfMultipleCompensationModelInAddContractPopup.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

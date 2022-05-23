@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPA02_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissions</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>899be337-d04b-49ff-8393-b09eb958df36</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/04_ProviderPayApprovals/PPA02_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissions.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>ManageUserInformation</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

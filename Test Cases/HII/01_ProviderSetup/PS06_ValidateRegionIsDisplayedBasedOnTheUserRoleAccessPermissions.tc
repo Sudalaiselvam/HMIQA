@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to validate Regions Mapped to User Role Logged In</description>
+   <name>PS06_ValidateRegionIsDisplayedBasedOnTheUserRoleAccessPermissions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f27ecbb9-f71c-43d4-b91c-9eea688ec5bc</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c8885d88-2fb1-4740-b1ff-f93044d8f38e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value>2</value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/01_ProviderSetup/td_PS06_ValidateRegionIsDisplayedBasedOnTheUserRoleAccessPermissions</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c8885d88-2fb1-4740-b1ff-f93044d8f38e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserName</value>
+      <variableId>1e97dc21-8e69-47f5-87bd-8333f16be8f3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c8885d88-2fb1-4740-b1ff-f93044d8f38e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserEncryptedPassword</value>
+      <variableId>7b1017d4-ab3d-4e1b-9fd8-94b7c95efcb4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c8885d88-2fb1-4740-b1ff-f93044d8f38e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserRole</value>
+      <variableId>a64bc428-7731-455f-96ba-75b744b8ae62</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e97dc21-8e69-47f5-87bd-8333f16be8f3</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b1017d4-ab3d-4e1b-9fd8-94b7c95efcb4</id>
+      <masked>false</masked>
+      <name>UserEncryptedPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a64bc428-7731-455f-96ba-75b744b8ae62</id>
+      <masked>false</masked>
+      <name>UserRole</name>
+   </variable>
+</TestCaseEntity>

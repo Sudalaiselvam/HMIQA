@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3BB575159A14E45A9CC7504DBFEDD286",
+  "keywordClasses": [
+    {
+      "name": "core.HMException",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

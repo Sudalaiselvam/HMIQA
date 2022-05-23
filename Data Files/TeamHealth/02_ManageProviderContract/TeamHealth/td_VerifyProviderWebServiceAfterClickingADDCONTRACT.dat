@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_VerifyProviderWebServiceAfterClickingADDCONTRACT</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>cc6f83c6-68e1-485a-9e0e-270b0a9767da</dataFileGUID>
+   <dataSourceUrl>Data Files/ManageProviderContract/TeamHealth/ExcelFiles/VerifyProviderWebServiceAfterClickingADDCONTRACT.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test scenario is to verify eligible provider should be listed in ProviderName field</description>
+   <name>PPA05_06_09_24_VerifyProviderNameWebserviceFunctionalityInProviderPayApprovalsScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b20d632-b198-4eb2-b207-c0d353b6d1d5</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_VerifyProviderNameWebserviceFunctionalityInProviderPayApprovalsScreen')</defaultValue>
+      <description></description>
+      <id>2b76ec46-c0b0-48a7-90ab-ddb5b3530760</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

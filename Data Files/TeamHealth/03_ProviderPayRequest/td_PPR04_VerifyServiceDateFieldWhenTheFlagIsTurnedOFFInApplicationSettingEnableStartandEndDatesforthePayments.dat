@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPR04_VerifyServiceDateFieldWhenTheFlagIsTurnedOFFInApplicationSettingEnableStartandEndDatesforthePayments</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a02cc705-d882-4c75-96e2-1c5253de19ea</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/03_ProviderPayRequest/PPR04_VerifyServiceDateFieldWhenTheFlagIsTurnedOFFInApplicationSettingEnableStartandEndDatesforthePayments.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

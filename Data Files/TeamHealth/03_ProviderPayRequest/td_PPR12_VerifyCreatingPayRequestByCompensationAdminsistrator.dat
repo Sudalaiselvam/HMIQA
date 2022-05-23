@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPR12_VerifyCreatingPayRequestByCompensationAdminsistrator</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>889d44cd-6908-481a-b02d-985e3f2b06a3</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/03_ProviderPayRequest/PPR12_VerifyCreatingPayRequestByCompensationAdminsistrator.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

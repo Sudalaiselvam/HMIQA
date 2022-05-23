@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Automation Test scenario covers below list of functionalities
+
+1. Validate Position Level
+2. Validate Payroll ID
+3. Validate Employee Type
+4. Validate Termination Details</description>
+   <name>MPC10_VerifyProviderDetailsInManageProviderContractPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b73f509d-79bf-4478-a068-c137f6d1d120</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6634b7fe-17bd-4568-accf-712297c305d6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/02_ManageProviderContract/td_MPC10_VerifyProviderDetailsInManageProviderContractPage</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6634b7fe-17bd-4568-accf-712297c305d6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>3fd12d07-da10-4c9c-b57c-c740bfac785e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fd12d07-da10-4c9c-b57c-c740bfac785e</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

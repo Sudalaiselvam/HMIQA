@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Verify Service End Date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bca36b0b-4503-4500-b907-c71283225cba</testCaseGuid>
+   <variable>
+      <defaultValue>'100011'</defaultValue>
+      <description></description>
+      <id>ff7be628-17fd-4ea1-9089-e70b3b77412c</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'09/09/2021'</defaultValue>
+      <description></description>
+      <id>da9ac8fe-6b18-4b16-90dd-3a64e5db7041</id>
+      <masked>false</masked>
+      <name>ServiceEndDate</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9609B82319B2DC93F6D08EA2B6557CCE",
+  "keywordClasses": [
+    {
+      "name": "core.Logger",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "61E986BD7355B83B5B2B0AA908089872",
+  "keywordClasses": [
+    {
+      "name": "core.IControlFactory",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

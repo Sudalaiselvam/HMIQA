@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PP13-VerifyFixedPaymentWithAutoApprovedShouldBeSentToApprovalScreenToGetItApprovedIfMaxCompReached</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>183333c0-d8ac-481b-9df3-8b249faed355</testCaseGuid>
+</TestCaseEntity>

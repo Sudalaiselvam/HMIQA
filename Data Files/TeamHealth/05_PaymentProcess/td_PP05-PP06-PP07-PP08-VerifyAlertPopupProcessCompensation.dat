@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PP05-PP06-PP07-PP08-VerifyAlertPopupProcessCompensation</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>8fd2ca32-53c6-4e3c-93c3-dcf8022505e9</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/05_PaymentProcess/PP05-PP06-PP07-PP08-VerifyAlertPopupProcessCompensation.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

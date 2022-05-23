@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test scenario is to verify eligible provider should be listed in ProviderName field</description>
+   <name>PPR01_VerifyProviderNameWebserviceFunctionalityInSinglePayRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd1bf828-f835-406c-b4d5-73c8a8c7fa32</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_PPR01_VerifyProviderNameWebserviceFunctionalityInSinglePayRequest')</defaultValue>
+      <description></description>
+      <id>a044785c-a5f3-4711-965a-446caff61b66</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

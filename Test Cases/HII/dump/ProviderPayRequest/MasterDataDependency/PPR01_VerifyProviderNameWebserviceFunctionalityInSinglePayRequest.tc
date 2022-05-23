@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR01_VerifyProviderNameWebserviceFunctionalityInSinglePayRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c7071e0-b019-4be4-9120-61b1cb1941fb</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_PPR01_VerifyProviderNameWebserviceFunctionalityInSinglePayRequest')</defaultValue>
+      <description></description>
+      <id>5e9b1324-bc6c-4590-bf75-c37dbd0a5a8d</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

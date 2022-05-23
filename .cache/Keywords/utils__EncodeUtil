@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "B7EC1B3DF883F7CB5749F7536CC65A3C",
+  "keywordClasses": [
+    {
+      "name": "utils.EncodeUtil",
+      "keywordMethods": []
+    },
+    {
+      "name": "utils.EncodeUtil$Info",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

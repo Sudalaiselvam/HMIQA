@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA17_VerifyPayElementsDisplayedInThePayElementsDropdownField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a95a94e-6f14-444d-808d-1d719993f6db</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA17_VerifyPayElementsDisplayedInThePayElementsDropdownField')</defaultValue>
+      <description></description>
+      <id>ec70fdaa-f303-4f5c-8ff9-dfaec5294896</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

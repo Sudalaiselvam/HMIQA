@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to validate encrypted fields based on General Settings Flag</description>
+   <name>PS12_ValidateEncryptedDataBasedOnGeneralSettings</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>867aded6-d169-4b03-b5ae-c7e99036cbb0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>657533d4-b240-403d-ba4c-e8dbe73ca270</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/01_ProviderSetup/td_PS12_ValidateEncryptedDataBasedOnGeneralSettings</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>657533d4-b240-403d-ba4c-e8dbe73ca270</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProviderSearch</value>
+      <variableId>6295695b-66a0-4943-b821-746e02a1e922</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'AT02182021143348'</defaultValue>
+      <description></description>
+      <id>6295695b-66a0-4943-b821-746e02a1e922</id>
+      <masked>false</masked>
+      <name>ProviderSearch</name>
+   </variable>
+</TestCaseEntity>

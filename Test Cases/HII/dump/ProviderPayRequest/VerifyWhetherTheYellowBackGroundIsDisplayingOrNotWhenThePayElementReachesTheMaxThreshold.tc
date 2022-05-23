@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyWhetherTheYellowBackGroundIsDisplayingOrNotWhenThePayElementReachesTheMaxThreshold</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>830015cd-d4a8-475e-9f72-b8ad442e7fe6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_VerifyWhetherTheYellowBackGroundIsDisplayingOrNotWhenThePayElementReachesTheMaxThreshold')</defaultValue>
+      <description></description>
+      <id>a87dcaa6-e131-4078-b915-75eda77633dc</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

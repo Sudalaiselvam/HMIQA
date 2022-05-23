@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPA11_VerifyAbleToApproveORDenyThePayRequest</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>ef88fed8-3d3b-48ba-a7e2-841b37ae746b</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/04_ProviderPayApprovals/PPA11_VerifyAbleToApproveORDenyThePayRequest.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA13_VerifySendToNextApproverFunctionalityShowingMaxCompensationOrThresholdAlerts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c665b8c8-847d-437c-bcf6-2c553d87f1c6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA26_SendToNextApproverFunctionalityShowingMaxCompensationOrThresholdAlerts')</defaultValue>
+      <description></description>
+      <id>afbc1915-1d22-4127-a226-84b54d73a008</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

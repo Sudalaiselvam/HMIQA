@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPA12_VerifyLocationsDropdownBasedOnTheSelectedRegionAndPayCycleThenItsRespectiveLocationsAreShownInTheLocationDrpdown</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>76fd4e85-ceff-4cce-bfe8-4ebedd11901e</dataFileGUID>
+   <dataSourceUrl>Data Files/ProviderPayApprovals/ExcelFiles/PPA12_VerifyLocationsDropdownBasedOnTheSelectedRegionAndPayCycleThenItsRespectiveLocationsAreShownInTheLocationDrpdown.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

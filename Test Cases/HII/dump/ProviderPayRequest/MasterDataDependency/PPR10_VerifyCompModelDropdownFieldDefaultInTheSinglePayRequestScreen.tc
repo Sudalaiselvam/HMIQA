@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR10_VerifyCompModelDropdownFieldDefaultInTheSinglePayRequestScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df6ba528-6d5c-4ed4-9006-4038d23f754e</testCaseGuid>
+   <variable>
+      <defaultValue>'238691'</defaultValue>
+      <description></description>
+      <id>ab96ff32-a3d1-4278-bee3-1ed1155cccfc</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'08/11/2020'</defaultValue>
+      <description></description>
+      <id>1fdb109f-0709-411e-a3a1-f2cffa3752e0</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+</TestCaseEntity>

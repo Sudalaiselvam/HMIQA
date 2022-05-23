@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C202D4615C18FC6F469A94E6CE30DCE9",
+  "keywordClasses": [
+    {
+      "name": "configs.PageLocatorReader",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

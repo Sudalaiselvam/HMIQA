@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPR05_VerifyTerminationDateIsOnlyDisplayedWhenTerminatedProviderNameIsSelected</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>f39d253c-8def-4ccc-821c-bed4b1ca400d</dataFileGUID>
+   <dataSourceUrl>Data Files/ProviderPayRequest/PPR05_VerifyTerminationDateIsOnlyDisplayedWhenTerminatedProviderNameIsSelected.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

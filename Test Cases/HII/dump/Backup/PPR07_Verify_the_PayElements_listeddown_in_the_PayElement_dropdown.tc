@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR07_Verify_the_PayElements_listeddown_in_the_PayElement_dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eebdfc2d-6df3-46d3-b040-08b242d4bce8</testCaseGuid>
+   <variable>
+      <defaultValue>'238691'</defaultValue>
+      <description></description>
+      <id>5ccffa70-4f12-457c-bef3-fb323f2f405a</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'08/11/2020'</defaultValue>
+      <description></description>
+      <id>8c7689ee-79fa-4fcb-aaae-b51c9965f781</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'RVU with Floor - Cost Center-219-2020'</defaultValue>
+      <description></description>
+      <id>5001a98f-788e-49be-82ab-9dd713632a04</id>
+      <masked>false</masked>
+      <name>CompModel</name>
+   </variable>
+</TestCaseEntity>

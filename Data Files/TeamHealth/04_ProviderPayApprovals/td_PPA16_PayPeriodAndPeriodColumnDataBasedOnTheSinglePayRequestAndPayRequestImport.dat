@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPA16_PayPeriodAndPeriodColumnDataBasedOnTheSinglePayRequestAndPayRequestImport</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>34c7518a-46ef-49f0-a08c-442ac12fd36b</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/04_ProviderPayApprovals/PPA16_PayPeriodAndPeriodColumnDataBasedOnTheSinglePayRequestAndPayRequestImport.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

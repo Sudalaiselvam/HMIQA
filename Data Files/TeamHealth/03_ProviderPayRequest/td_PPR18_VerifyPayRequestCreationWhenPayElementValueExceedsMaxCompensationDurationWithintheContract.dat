@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPR18_VerifyPayRequestCreationWhenPayElementValueExceedsMaxCompensationDurationWithintheContract</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a8e1a279-c01f-4cf1-80d0-125ea56d947a</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/03_ProviderPayRequest/PPR18_VerifyPayRequestCreationWhenPayElementValueExceedsMaxCompensationDurationWithintheContract.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

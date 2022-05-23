@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR04_VerifyServiceDateFieldWhenTheFlagIsTurnedOFFInApplicationSettingEnableStartandEndDatesforthePayments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81b8e05b-8a1a-4ad9-93e9-332231c4753c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4cc47b7f-14e3-4e49-b5f4-8b9fcb3e65d5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/03_ProviderPayRequest/td_PPR04_VerifyServiceDateFieldWhenTheFlagIsTurnedOFFInApplicationSettingEnableStartandEndDatesforthePayments</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4cc47b7f-14e3-4e49-b5f4-8b9fcb3e65d5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProviderName</value>
+      <variableId>eb138d99-9222-4f8b-b57f-b909c416025c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e9ccbc2-374d-4f43-be95-6a3623048f3a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PayRequest001'</defaultValue>
+      <description></description>
+      <id>eb138d99-9222-4f8b-b57f-b909c416025c</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+   <variable>
+      <defaultValue>['08/11/2021', '08/09/2020']</defaultValue>
+      <description></description>
+      <id>5e9ccbc2-374d-4f43-be95-6a3623048f3a</id>
+      <masked>false</masked>
+      <name>RequestDates</name>
+   </variable>
+</TestCaseEntity>

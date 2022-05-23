@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA14_VerifyFunctionalityOfDownloadExcelIconWorkingProperly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0850d904-a697-4fa7-be07-b2cc08004b6a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7ad63fec-730f-445c-ac7e-0b4363804ae6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/04_ProviderPayApprovals/td_PPA14_VerifyFunctionalityOfDownloadExcelIconWorkingProperly</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e7147a2-ec16-434c-af13-1f40c3c6331e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7ad63fec-730f-445c-ac7e-0b4363804ae6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>3eb72df8-871f-46eb-b871-c1772fcb8882</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_VerifyFunctionalityOfDownloadExcelIconWorkingProperly')</defaultValue>
+      <description></description>
+      <id>1e7147a2-ec16-434c-af13-1f40c3c6331e</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3eb72df8-871f-46eb-b871-c1772fcb8882</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

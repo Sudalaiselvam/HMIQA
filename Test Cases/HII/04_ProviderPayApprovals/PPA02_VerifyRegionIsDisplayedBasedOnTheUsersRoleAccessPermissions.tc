@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>
+Below list of Manual Test Cases Covers
+
+Verify REGION is displayed based on the User's Role Access Permissions in Pay Approval Screen.</description>
+   <name>PPA02_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42240484-58ee-4a3f-ad1e-ecf72789df0d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7c671e82-9e26-46f3-b5fc-46aded856c52</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/04_ProviderPayApprovals/td_PPA02_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissions</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7bebceb-c27c-41af-a226-a20ab986671d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7c671e82-9e26-46f3-b5fc-46aded856c52</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserName</value>
+      <variableId>dabc4ff1-84ab-4a45-a200-f94e582e1bb6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7c671e82-9e26-46f3-b5fc-46aded856c52</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>EncryptedPassword</value>
+      <variableId>13e77221-8ab1-4d11-b027-ba8bc1e8cc0d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7c671e82-9e26-46f3-b5fc-46aded856c52</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Role</value>
+      <variableId>89cb7504-1567-48b7-85a9-6e994c00e9be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA10_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissionsInPayApprovalScreen')</defaultValue>
+      <description></description>
+      <id>e7bebceb-c27c-41af-a226-a20ab986671d</id>
+      <masked>false</masked>
+      <name>ManageUserInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dabc4ff1-84ab-4a45-a200-f94e582e1bb6</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13e77221-8ab1-4d11-b027-ba8bc1e8cc0d</id>
+      <masked>false</masked>
+      <name>EncryptedPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA10_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissionsInPayApprovalScreen').getValue('Role', 1)</defaultValue>
+      <description></description>
+      <id>89cb7504-1567-48b7-85a9-6e994c00e9be</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+</TestCaseEntity>

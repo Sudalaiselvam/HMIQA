@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR10_VerifyCreatingAPayRequestByProvider</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>263f2034-0619-4cee-aa60-2278c7a4f5ca</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_VerifyCreatingAPayRequestByProvider')</defaultValue>
+      <description></description>
+      <id>6ef11222-c900-430a-b328-639f3a62d025</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR02_VerifyServiceDateFieldWhenTheFlagIsTurnedONInApplicationSettingEnableStartandEndDatesforthePayments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa81c4ad-9abb-4b33-b128-5cfccd541179</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_PPR02_VerifyServiceDateFieldWhenTheFlagIsTurnedONInApplicationSettingEnableStartandEndDatesforthePayments')</defaultValue>
+      <description></description>
+      <id>c4cea9f9-6a2b-4000-aec2-5091354acc19</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

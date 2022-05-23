@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPA10_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissionsInPayApprovalScreen</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>4020a05f-a325-4c89-ac74-be65876d1ea3</dataFileGUID>
+   <dataSourceUrl>Data Files/ProviderPayApprovals/ExcelFiles/PPA10_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissionsInPayApprovalScreen.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>ManageUserInformation</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

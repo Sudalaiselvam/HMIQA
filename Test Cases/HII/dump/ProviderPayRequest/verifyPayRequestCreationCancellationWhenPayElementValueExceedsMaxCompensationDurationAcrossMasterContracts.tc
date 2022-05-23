@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyPayRequestCreationCancellationWhenPayElementValueExceedsMaxCompensationDurationAcrossMasterContracts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cba98a4-fe0e-45ef-9f50-51b8277938e1</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_verifyMaxCompensationDurationAcrossMasterContracts')</defaultValue>
+      <description></description>
+      <id>bdd23717-0fb1-4f60-9b63-ebe7dc6458bb</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_UpdateFunctionalityShowingMaxCompensationOrThresholdAlerts</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>33fbaf22-6469-48c3-a5ad-50cc63cd30a0</dataFileGUID>
+   <dataSourceUrl>Data Files/ProviderPayApprovals/ExcelFiles/UpdateFunctionalityShowingMaxCompensationOrThresholdAlerts.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

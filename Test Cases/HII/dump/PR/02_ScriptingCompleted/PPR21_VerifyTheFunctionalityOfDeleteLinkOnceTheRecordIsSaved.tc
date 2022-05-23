@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR21_VerifyTheFunctionalityOfDeleteLinkOnceTheRecordIsSaved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dba365f-bf9a-4eed-991f-1fb778d37744</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_VerifyTheFunctionalityOfDeleteLinkOnceTheRecordIsSaved')</defaultValue>
+      <description></description>
+      <id>f1a5d545-c63b-4fcf-b45f-29ee824dc8fd</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

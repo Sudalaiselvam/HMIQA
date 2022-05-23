@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPA17_VerifySendToNextApproverFunctionalityShowingMaxCompensationOrThresholdAlerts</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b398b469-7c27-48ec-ab5e-c1b343a35ede</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/04_ProviderPayApprovals/PPA17_VerifySendToNextApproverFunctionalityShowingMaxCompensationOrThresholdAlerts.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

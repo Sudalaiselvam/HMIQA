@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is to verify list of Region displaying in Manage Provider Contract based on Role Mapping</description>
+   <name>MPC02_VerifyRegionIsDisplayedBasedOnTheUserRoleAccessPermissions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7d8668d-05a3-4698-a696-4ada59c7f63a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a46260bc-5471-4828-a701-69f1a28d943a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/02_ManageProviderContract/td_MPC02_VerifyRegionIsDisplayedBasedOnTheUserRoleAccessPermissions</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a46260bc-5471-4828-a701-69f1a28d943a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserName</value>
+      <variableId>60400d79-4988-4aae-bcbc-90a85318303a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a46260bc-5471-4828-a701-69f1a28d943a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>EncryptedPassword</value>
+      <variableId>a7a0b2e7-21c9-42bc-abe5-6dbbb5a443f4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a46260bc-5471-4828-a701-69f1a28d943a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Role</value>
+      <variableId>112fdea2-db9b-44d7-8cb5-10081588ebb3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>60400d79-4988-4aae-bcbc-90a85318303a</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7a0b2e7-21c9-42bc-abe5-6dbbb5a443f4</id>
+      <masked>false</masked>
+      <name>EncryptedPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>112fdea2-db9b-44d7-8cb5-10081588ebb3</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+</TestCaseEntity>

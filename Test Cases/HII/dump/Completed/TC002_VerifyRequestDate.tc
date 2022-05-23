@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_VerifyRequestDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38cb9a74-0b6f-4204-8f1a-7c8370d8eab5</testCaseGuid>
+   <variable>
+      <defaultValue>'PayRequest001'</defaultValue>
+      <description></description>
+      <id>fe545364-7b54-4bc8-8b2e-012ea3900b63</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'09/09/2021'</defaultValue>
+      <description></description>
+      <id>359de7fe-4d81-4688-9180-435caea598e9</id>
+      <masked>false</masked>
+      <name>ServiceEndDate</name>
+   </variable>
+</TestCaseEntity>

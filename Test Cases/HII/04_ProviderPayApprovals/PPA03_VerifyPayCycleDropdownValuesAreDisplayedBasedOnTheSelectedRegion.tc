@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify PAY CYCLE dropdown values are displayed based on the selected Region in the Pay Approval Screen.</description>
+   <name>PPA03_VerifyPayCycleDropdownValuesAreDisplayedBasedOnTheSelectedRegion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdbe46e8-1a0f-4e4f-b021-1a7fa7de783a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>873c50a5-4b40-4abf-aa48-397f383e617c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/04_ProviderPayApprovals/td_PPA03_VerifyPayCycleDropdownValuesAreDisplayedBasedOnTheSelectedRegion</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>873c50a5-4b40-4abf-aa48-397f383e617c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>a2ce6dc3-a538-4acc-927c-80267e7235d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Region-2'</defaultValue>
+      <description></description>
+      <id>a2ce6dc3-a538-4acc-927c-80267e7235d5</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+</TestCaseEntity>

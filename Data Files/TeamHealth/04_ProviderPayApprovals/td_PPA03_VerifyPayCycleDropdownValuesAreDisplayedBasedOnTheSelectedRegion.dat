@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPA03_VerifyPayCycleDropdownValuesAreDisplayedBasedOnTheSelectedRegion</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>3da5688d-ddde-4eb8-be5e-0638131bc26d</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/04_ProviderPayApprovals/PPA03_VerifyPayCycleDropdownValuesAreDisplayedBasedOnTheSelectedRegion.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

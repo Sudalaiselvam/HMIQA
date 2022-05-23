@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_td_VerifyMaxThresoldLimitAlertMessageIsDipslayingWhenUserCrossMaxThresoldUnitsLimit</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5c445493-a763-4b95-9049-f42f67163940</dataFileGUID>
+   <dataSourceUrl>Data Files/ProviderPayRequest/VerifyMaxThresoldLimitAlertMessageIsDipslayingWhenUserCrossMaxThresoldUnitsLimit.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

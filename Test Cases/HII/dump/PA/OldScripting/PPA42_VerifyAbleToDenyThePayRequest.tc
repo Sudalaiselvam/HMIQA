@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA42_VerifyAbleToDenyThePayRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>878be137-da3a-4842-8d51-3b64aa4fcf1c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA25_VerifyTheFunctionalityOfSendtoNextApproverOnceThePayRequestIsRaisedInSingleMultiplePayRequest')</defaultValue>
+      <description></description>
+      <id>08d32ffc-1f98-406d-b947-8511c058675f</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

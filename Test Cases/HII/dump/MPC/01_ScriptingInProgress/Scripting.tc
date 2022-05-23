@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scripting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4dd379d-8513-4d7a-908e-669fc4834d83</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('Provider', 1)</defaultValue>
+      <description></description>
+      <id>c43915cc-c90a-45ad-b472-198bddaa0132</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('MasterContractStartDate', 1)</defaultValue>
+      <description></description>
+      <id>fe0e49d4-ecdb-47c4-b2c7-87f572810955</id>
+      <masked>false</masked>
+      <name>MasterContractStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('MasterContractEndDate', 1)</defaultValue>
+      <description></description>
+      <id>61a40bf3-9b05-456e-96bf-b056731c70c2</id>
+      <masked>false</masked>
+      <name>MasterContractEndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('MasterCompensationModel', 1)</defaultValue>
+      <description></description>
+      <id>d1d423ac-e649-44fc-877d-34a5ba605b27</id>
+      <masked>false</masked>
+      <name>MasterCompensationModel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('ContractStartDate', 1)</defaultValue>
+      <description></description>
+      <id>fe344bae-ab27-439f-ad57-f46f14125dfc</id>
+      <masked>false</masked>
+      <name>ContractStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('ContractEndDate', 1)</defaultValue>
+      <description></description>
+      <id>9a05ac32-e474-4ee4-89a3-b1e31d001882</id>
+      <masked>false</masked>
+      <name>ContractEndDate</name>
+   </variable>
+</TestCaseEntity>

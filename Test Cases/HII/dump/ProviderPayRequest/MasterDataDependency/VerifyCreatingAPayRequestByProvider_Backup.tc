@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyCreatingAPayRequestByProvider_Backup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>531ae011-8cb2-471c-9ddd-c459a71074e1</testCaseGuid>
+   <variable>
+      <defaultValue>'Pay001'</defaultValue>
+      <description></description>
+      <id>3ea9d7db-ef23-4174-976e-97c1a7430350</id>
+      <masked>false</masked>
+      <name>ProviderID</name>
+   </variable>
+   <variable>
+      <defaultValue>'Victory@123'</defaultValue>
+      <description></description>
+      <id>d64a3c07-d21e-4eed-856a-e5f812bfdaa4</id>
+      <masked>false</masked>
+      <name>ProviderPWD</name>
+   </variable>
+</TestCaseEntity>

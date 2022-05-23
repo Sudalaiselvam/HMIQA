@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PP26-PP27-VerifyAbleToSearchMultipleProvidersInProcessByProviderAtOnce</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d0ec8e5d-2c4d-48e8-9323-f732b2ec1a7e</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/05_PaymentProcess/PP26-PP27-VerifyAbleToSearchMultipleProvidersInProcessByProviderAtOnce.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

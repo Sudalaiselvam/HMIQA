@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Automation Test scenario covers below list of functionalities
+
+1. Export Contract Details Excel functionality
+2. Total Facility Count value </description>
+   <name>MPC05_VerifyTotalFacilityCount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76e971b1-1d2b-4611-bfca-d5a4bcd51f7f</testCaseGuid>
+</TestCaseEntity>

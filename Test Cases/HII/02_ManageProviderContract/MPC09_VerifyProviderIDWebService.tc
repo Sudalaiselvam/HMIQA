@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is to verify Provider/ID web service functionality</description>
+   <name>MPC09_VerifyProviderIDWebService</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0af3689-3729-43da-80d9-7d15e8be7ad6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1d8596e8-f6e2-4d87-aa87-691c4c8e745a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/02_ManageProviderContract/td_MPC09_VerifyProviderIDWebService</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1d8596e8-f6e2-4d87-aa87-691c4c8e745a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>81a73572-acfc-4fa7-b36f-58fea684f511</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>81a73572-acfc-4fa7-b36f-58fea684f511</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

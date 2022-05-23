@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PP05-PP06-PP07-PP08-VerifyAlertPopupProcessCompensation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd2260d9-9d2c-4001-9ecd-0bfaaa465238</testCaseGuid>
+   <variable>
+      <defaultValue>'Region-2'</defaultValue>
+      <description></description>
+      <id>4fa0ca7c-9a2d-4aa0-b917-a11ce4ebc0cb</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>'Calendar Month'</defaultValue>
+      <description></description>
+      <id>1db96e8b-2c39-4e2d-98f7-23d1c223a9c4</id>
+      <masked>false</masked>
+      <name>PayCycle</name>
+   </variable>
+   <variable>
+      <defaultValue>'2021'</defaultValue>
+      <description></description>
+      <id>fd1fa8d8-e875-47dd-986a-459317dfd231</id>
+      <masked>false</masked>
+      <name>Year</name>
+   </variable>
+   <variable>
+      <defaultValue>'11/01/2021 - 11/30/2021'</defaultValue>
+      <description></description>
+      <id>dcb89c1c-c263-4078-85bc-175208d262dd</id>
+      <masked>false</masked>
+      <name>PayPeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>'Location -3'</defaultValue>
+      <description></description>
+      <id>838e70af-30ce-4d0a-a28c-5774271b08e5</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+   <variable>
+      <defaultValue>'Continue'</defaultValue>
+      <description></description>
+      <id>4544884a-68e7-4660-b9cb-4c746f465135</id>
+      <masked>false</masked>
+      <name>AlertContinueCancel</name>
+   </variable>
+</TestCaseEntity>

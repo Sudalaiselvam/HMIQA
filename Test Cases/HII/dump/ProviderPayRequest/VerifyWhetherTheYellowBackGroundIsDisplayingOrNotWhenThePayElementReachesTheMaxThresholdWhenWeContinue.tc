@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyWhetherTheYellowBackGroundIsDisplayingOrNotWhenThePayElementReachesTheMaxThresholdWhenWeContinue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14bcc6aa-05a4-4867-9197-4f931a9bca00</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_td_VerifyMaxThresoldLimitAlertMessageIsDipslayingWhenUserCrossMaxThresoldUnitsLimit')</defaultValue>
+      <description></description>
+      <id>2a13cd0d-a13b-451b-825e-c289db8b8306</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

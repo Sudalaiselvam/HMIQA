@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyCreatingPayRequestByCompensationAdminsistrator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e889cb58-d937-401d-9dec-2c3215cdd022</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_VerifyCreatingPayRequestByCompensationAdminsistrator')</defaultValue>
+      <description></description>
+      <id>b5851919-fd64-417f-8460-56390c7d12cf</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

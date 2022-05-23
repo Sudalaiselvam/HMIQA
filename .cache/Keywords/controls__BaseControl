@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "7C451EDEFEB2A6F38D26C78A38404C13",
+  "keywordClasses": [
+    {
+      "name": "controls.BaseControl",
+      "keywordMethods": []
+    },
+    {
+      "name": "controls.BaseControl$1",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA15_VerifyPayPeriodValuesDisplayedInThePayPeriodDropdownField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d59e2b03-81c3-409f-a5cc-4931dcfd133c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA15_VerifyPayPeriodValuesDisplayedInThePayPeriodDropdownField')</defaultValue>
+      <description></description>
+      <id>b557ffc0-8906-4629-bbb2-2147c15c4162</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

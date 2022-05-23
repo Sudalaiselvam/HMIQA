@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyMaxThresoldLimitAlertMessageIsDipslayingWhenUserCrossMaxThresoldUnitsLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b2066ac-7699-4022-907b-bc6a3464ddd7</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_td_VerifyMaxThresoldLimitAlertMessageIsDipslayingWhenUserCrossMaxThresoldUnitsLimit')</defaultValue>
+      <description></description>
+      <id>f9bcd516-ae4b-4901-b8a5-e1beb264306d</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyBasedOnUserAccessRolePermissionsProvidersAreShownInTheProviderNameWebServiceSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d88d1b4b-6710-452c-b07f-8f7a9aed86a3</testCaseGuid>
+</TestCaseEntity>

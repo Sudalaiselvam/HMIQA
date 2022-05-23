@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA18_VerifyCostCentersDisplayedInTheCostCentersDropdownField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0c9d303-da87-4926-bae6-927415a95f3c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA18_VerifyCostCentersDisplayedInTheCostCentersDropdownField')</defaultValue>
+      <description></description>
+      <id>c9fdb1fb-5318-405f-91dd-6c71e0918c44</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

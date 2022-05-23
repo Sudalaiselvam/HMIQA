@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA18_UpdateFunctionalityShowingMaxCompensationOrThresholdAlerts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5208c866-3047-4fad-a901-2f530fdd3785</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_UpdateFunctionalityShowingMaxCompensationOrThresholdAlerts')</defaultValue>
+      <description></description>
+      <id>7e05216d-ba9b-48c1-bab1-aa599c3cdab3</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

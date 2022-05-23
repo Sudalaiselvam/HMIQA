@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PP13-PP14-PP15-PP16-PP17-VerifyPayElementData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8220e3a9-a463-447d-af99-f83fc799a557</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>db51bd83-9c94-4860-acd4-cef0b9e3b4d3</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/05_PaymentProcess/td_PP13-PP14-PP15-PP16-PP17-VerifyPayElementData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>db51bd83-9c94-4860-acd4-cef0b9e3b4d3</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>13bfe6c0-79d8-4df6-825e-5e249774c366</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>db51bd83-9c94-4860-acd4-cef0b9e3b4d3</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Year</value>
+      <variableId>eb6b6527-92d5-482b-b119-309ddf8a5e91</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>db51bd83-9c94-4860-acd4-cef0b9e3b4d3</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PayPeriod</value>
+      <variableId>d151def1-f6c3-49b8-bf63-c8e260579d6b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>db51bd83-9c94-4860-acd4-cef0b9e3b4d3</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PayCycle</value>
+      <variableId>1b3fbfc2-87e1-42cc-b8eb-76c494d7b502</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53f92aec-eaf1-40ff-a62c-9678c09b49b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PaymentProcess05'</defaultValue>
+      <description></description>
+      <id>13bfe6c0-79d8-4df6-825e-5e249774c366</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'2022'</defaultValue>
+      <description></description>
+      <id>eb6b6527-92d5-482b-b119-309ddf8a5e91</id>
+      <masked>false</masked>
+      <name>Year</name>
+   </variable>
+   <variable>
+      <defaultValue>'01/02/2022 - 01/15/2022'</defaultValue>
+      <description></description>
+      <id>d151def1-f6c3-49b8-bf63-c8e260579d6b</id>
+      <masked>false</masked>
+      <name>PayPeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sunday to Saturday-2'</defaultValue>
+      <description></description>
+      <id>1b3fbfc2-87e1-42cc-b8eb-76c494d7b502</id>
+      <masked>false</masked>
+      <name>PayCycle</name>
+   </variable>
+   <variable>
+      <defaultValue>'01/16/2022 - 01/29/2022\r\n01/30/2022 - 02/12/2022\r\n01/02/2022 - 01/15/2022'</defaultValue>
+      <description></description>
+      <id>53f92aec-eaf1-40ff-a62c-9678c09b49b6</id>
+      <masked>false</masked>
+      <name>Sampletestdata</name>
+   </variable>
+</TestCaseEntity>

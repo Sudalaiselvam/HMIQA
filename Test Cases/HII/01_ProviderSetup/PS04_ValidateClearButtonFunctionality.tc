@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to validate Clear Button Functionality</description>
+   <name>PS04_ValidateClearButtonFunctionality</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>6c77ffc1-1d03-4acc-8a76-992808b261ec</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>54294a8e-b36a-4b76-9edb-d55b599edab6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/01_ProviderSetup/td_PS04_ValidateClearButtonFunctionality</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>54294a8e-b36a-4b76-9edb-d55b599edab6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProviderSearch</value>
+      <variableId>7c8f4bb6-ead5-4db2-b841-79029b197189</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>54294a8e-b36a-4b76-9edb-d55b599edab6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UniversalSearch</value>
+      <variableId>cd859879-ace2-401c-9f32-06d58a7b5b40</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'238695'</defaultValue>
+      <description></description>
+      <id>7c8f4bb6-ead5-4db2-b841-79029b197189</id>
+      <masked>false</masked>
+      <name>ProviderSearch</name>
+   </variable>
+   <variable>
+      <defaultValue>'Allergy'</defaultValue>
+      <description></description>
+      <id>cd859879-ace2-401c-9f32-06d58a7b5b40</id>
+      <masked>false</masked>
+      <name>UniversalSearch</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR11_VerifyTheFunctionalityOfSaveButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc1d5885-4dc2-4c86-aee7-2d5128e197be</testCaseGuid>
+   <variable>
+      <defaultValue>'238691'</defaultValue>
+      <description></description>
+      <id>ed99e170-1387-4cb2-a944-1c7a9f7baa17</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'11/01/2020'</defaultValue>
+      <description></description>
+      <id>33f97184-b7d7-4714-8f76-c3965076b2a7</id>
+      <masked>false</masked>
+      <name>ServiceStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'11/11/2020'</defaultValue>
+      <description></description>
+      <id>6821a861-2ebb-47ef-9735-f1ff8d95cc57</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'RVU with Floor - Cost Center-219-2020'</defaultValue>
+      <description></description>
+      <id>c3e755b4-d2cd-449d-8a34-ed864bb40a14</id>
+      <masked>false</masked>
+      <name>CompensationModel</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7aef21d-0f0e-48be-ad26-2d65ac1e9d4d</id>
+      <masked>false</masked>
+      <name>PayElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>20a61cf6-d462-4cc2-a29e-36ed23ae080c</id>
+      <masked>false</masked>
+      <name>PayElementValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d8131a9-aeaf-406f-a357-ff011fa3c936</id>
+      <masked>false</masked>
+      <name>Reason</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to validate Location Drop Down</description>
+   <name>PS07_ValidateLocationDropdownList</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>03b13ce1-579a-4fdb-89e3-43a93ea3d5ae</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ea14cda1-7913-493e-86ab-dc5cb28783a1</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/01_ProviderSetup/td_PS07_ValidateLocationDropdownList</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ea14cda1-7913-493e-86ab-dc5cb28783a1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>6b623715-2f74-4033-b37c-f854b32cf4ca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Region-1'</defaultValue>
+      <description></description>
+      <id>6b623715-2f74-4033-b37c-f854b32cf4ca</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+</TestCaseEntity>

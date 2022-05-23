@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR06_VerifyCompModelDropdownFieldInTheSinglePayRequestScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dcd3ef4-f381-464d-ad00-1be075f68e6d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_PPR06_VerifyCompModelDropdownFieldInTheSinglePayRequestScreen')</defaultValue>
+      <description></description>
+      <id>ff9cc5b9-74f3-430c-a8d2-5edc9867efa5</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyGeneralSettings</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f79689e7-1f89-45d4-866e-2731a9a09dd6</testCaseGuid>
+   <variable>
+      <defaultValue>'PayRequest002'</defaultValue>
+      <description></description>
+      <id>1922a234-6b47-438e-8648-814016bda989</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

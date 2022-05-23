@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPR21_VerifyTheFunctionalityOfDeleteLinkOnceTheRecordIsSaved</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>9153dd53-0625-4c63-ab67-8f52975b9ae6</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/03_ProviderPayRequest/PPR21_VerifyTheFunctionalityOfDeleteLinkOnceTheRecordIsSaved.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

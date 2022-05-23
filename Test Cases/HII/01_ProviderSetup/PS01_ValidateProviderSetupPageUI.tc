@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to below list of validations 
+	1. Web Elements displayed by default with default values
+	2. Provider Details Grid Column Heading
+	3. Organization title</description>
+   <name>PS01_ValidateProviderSetupPageUI</name>
+   <tag>WebUI,SmokeTest</tag>
+   <comment></comment>
+   <testCaseGuid>9453c65a-b3ea-43b2-87b3-eefaf56aa345</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA12_VerifyLocationsDropdownBasedOnTheSelectedRegionAndPayCycleThenItsRespectiveLocationsAreShownInTheLocationDrpdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81c8d676-4f06-4c8a-bcc3-01af8c02d6ba</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA12_VerifyLocationsDropdownBasedOnTheSelectedRegionAndPayCycleThenItsRespectiveLocationsAreShownInTheLocationDrpdown')</defaultValue>
+      <description></description>
+      <id>0f6dc459-88f3-417e-9555-11f25575d948</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

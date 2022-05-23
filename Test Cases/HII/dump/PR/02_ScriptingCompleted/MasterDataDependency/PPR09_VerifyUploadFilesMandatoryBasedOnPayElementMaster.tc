@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR09_VerifyUploadFilesMandatoryBasedOnPayElementMaster</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a948401-e8d0-4e59-87c1-a7cd2aea22be</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_PPR08_VerifyPayRequestNoteMandatoryBasedOnPayElementMaster')</defaultValue>
+      <description></description>
+      <id>8cd4a839-164e-4a41-9a04-60da496700e6</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

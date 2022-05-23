@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR07_VerifyThePayElementsListedDropdownInThePayElementDropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5157e075-5ca4-44cc-886f-9bba45c88ffc</testCaseGuid>
+   <variable>
+      <defaultValue>'238691'</defaultValue>
+      <description></description>
+      <id>81d2e1a5-fe83-428f-8a87-a7954bbd78de</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'08/11/2020'</defaultValue>
+      <description></description>
+      <id>6e0f5c14-4b5a-4de2-9aea-be9f66019102</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'RVU with Floor - Cost Center-229-2020'</defaultValue>
+      <description></description>
+      <id>38a2e108-87ab-4947-a042-1cb28b21e1c4</id>
+      <masked>false</masked>
+      <name>CompModel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_PPR07_VerifyThePayElementsListedDropdownInThePayElementDropdown')</defaultValue>
+      <description></description>
+      <id>ea782d4f-dbe0-4ee1-80bf-d5dc747802a0</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

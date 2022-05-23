@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to validate below list
+	1. Export Excel Button Functionality
+	2. Exported Excel Data</description>
+   <name>PS05_ValidateExportProvidersInformationImageFunctionality</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>cc9bb2d7-297a-489c-9aa3-788009739b98</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7613909d-63f5-41ea-8f8b-8f23414ed73a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/01_ProviderSetup/td_PS05_ValidateExportProvidersInformationImageFunctionality</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7613909d-63f5-41ea-8f8b-8f23414ed73a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProviderSearch</value>
+      <variableId>a8ff0faa-02d6-4dac-aabb-c12150528f50</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'238695'</defaultValue>
+      <description></description>
+      <id>a8ff0faa-02d6-4dac-aabb-c12150528f50</id>
+      <masked>false</masked>
+      <name>ProviderSearch</name>
+   </variable>
+</TestCaseEntity>

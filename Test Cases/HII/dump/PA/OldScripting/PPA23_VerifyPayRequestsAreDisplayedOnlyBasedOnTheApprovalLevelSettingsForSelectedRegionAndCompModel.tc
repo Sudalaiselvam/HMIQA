@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA23_VerifyPayRequestsAreDisplayedOnlyBasedOnTheApprovalLevelSettingsForSelectedRegionAndCompModel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8afce65-c22f-44bf-bbf9-320c32550166</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA23_VerifyPayRequestsAreDisplayedOnlyBasedOnTheApprovalLevelSettingsForSelectedRegionAndCompModel')</defaultValue>
+      <description></description>
+      <id>9fd22f4f-c20c-469b-839d-b168348da961</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>TC_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://einstein2.us/VMSQAAutomation/Account/login'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Orgadmin@yopmail.com'</initValue>
+      <name>ORG_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lag66Bk2evHdIxOAdb0TGg=='</initValue>
+      <name>ORG_PW</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Agency@yopmail.com'</initValue>
+      <name>AGC_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lag66Bk2evHdIxOAdb0TGg=='</initValue>
+      <name>AGC_PW</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'vmsadmin@yopmail.com'</initValue>
+      <name>VMS_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lag66Bk2evHdIxOAdb0TGg=='</initValue>
+      <name>VMS_PW</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

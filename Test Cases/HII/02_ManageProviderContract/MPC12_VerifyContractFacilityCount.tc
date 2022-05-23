@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is to verify Contract Facility Count</description>
+   <name>MPC12_VerifyContractFacilityCount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82290c05-5331-479a-9ca3-8b3165352613</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>9ed9aa99-3dd0-426a-a9e4-f73754dfcee4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/02_ManageProviderContract/td_MPC12_VerifyContractFacilityCount</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>9ed9aa99-3dd0-426a-a9e4-f73754dfcee4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>ddca282d-7564-4708-8586-55a2ca95e337</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ddca282d-7564-4708-8586-55a2ca95e337</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyPayRequests</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4de906e6-8964-4b89-9c96-7224fe7d09cd</testCaseGuid>
+   <variable>
+      <defaultValue>'PayRequest001'</defaultValue>
+      <description></description>
+      <id>e8346368-4292-4bd5-b794-7083d9bb9fd4</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>663c0431-257a-4aa1-aa8c-917a25f92164</id>
+      <masked>false</masked>
+      <name>ServiceStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'11/03/2021'</defaultValue>
+      <description></description>
+      <id>9d9b4a7f-36d6-485e-bc5b-682b44c9f23e</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e8289780-65f0-40f5-8052-110b02fb090e</id>
+      <masked>false</masked>
+      <name>CompensationModel</name>
+   </variable>
+   <variable>
+      <defaultValue>'CME ~ 01/01/2021-12/31/2021'</defaultValue>
+      <description></description>
+      <id>ab02f8d8-329c-47cb-a97d-0b19e309a902</id>
+      <masked>false</masked>
+      <name>PayElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'4'</defaultValue>
+      <description></description>
+      <id>dd68bb59-5ca7-4d6a-b6f0-8778b60d9556</id>
+      <masked>false</masked>
+      <name>PayElementValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b9467050-0d0c-4935-a63b-f58d460cf33d</id>
+      <masked>false</masked>
+      <name>Reason</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyThePayElementIsDisplayingWithYellowBackGroundWhenPayElementReachedMaxThresoldLimitDeleteThePayRequestAndCheckTheDisplayOfDataInGrid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>433a7155-a773-47ad-9aa3-a9bb95d84ac3</testCaseGuid>
+   <variable>
+      <defaultValue>'PayRequest001'</defaultValue>
+      <description></description>
+      <id>b90ee7d0-113b-4a09-a437-206df315ccff</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75cfc316-0692-45a9-ad2c-f2446ab17ac5</id>
+      <masked>false</masked>
+      <name>ServiceStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'11/06/2021'</defaultValue>
+      <description></description>
+      <id>08690525-0f56-4d88-a897-736c2790df4c</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Comp Model 1 - Cost Center-1123-2021'</defaultValue>
+      <description></description>
+      <id>a9ff8c6e-1639-4122-aa54-1d393f53edd0</id>
+      <masked>false</masked>
+      <name>CompensationModel</name>
+   </variable>
+   <variable>
+      <defaultValue>'CME ~ 01/01/2021-12/31/2021'</defaultValue>
+      <description></description>
+      <id>da78342f-f1bd-45f1-b1c5-3e56b6aac095</id>
+      <masked>false</masked>
+      <name>PayElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'4'</defaultValue>
+      <description></description>
+      <id>202d695e-69ab-45ba-b08a-1c5e7a16009d</id>
+      <masked>false</masked>
+      <name>PayElementValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e58b7cb8-4dd4-4a01-b78e-a5e57c809c11</id>
+      <masked>false</masked>
+      <name>Reason</name>
+   </variable>
+</TestCaseEntity>

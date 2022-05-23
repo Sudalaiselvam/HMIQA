@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPR08_VerifyPayRequestNoteMandatoryBasedOnPayElementMaster</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>65ed2203-3b8d-450c-8643-ea1decb7fe4c</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/03_ProviderPayRequest/PPR08_VerifyPayRequestNoteMandatoryBasedOnPayElementMaster.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

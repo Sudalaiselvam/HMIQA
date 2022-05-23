@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA09_VerifyInActiveCheckboxFunctionalityInPayApprovalsScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e60816cc-6ca8-4933-aa5a-1213aac39e7e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA21_VerifyInActiveCheckboxFunctionalityInPayApprovalsScreen')</defaultValue>
+      <description></description>
+      <id>c40de412-04b9-403e-8c06-50cd5cf6c9d9</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

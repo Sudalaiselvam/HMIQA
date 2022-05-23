@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA08_VerifySpecialtiesDisplayedInTheSpecialtyDropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>671e806e-618d-4d5e-bdd0-83a4d28b7f4d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ef9a55f9-79d4-43f5-9dab-04988e0b8db0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/04_ProviderPayApprovals/td_PPA08_VerifySpecialtiesDisplayedInTheSpecialtyDropdown</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b2ac2b4-8e8f-42c5-8935-6dcb50798983</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ef9a55f9-79d4-43f5-9dab-04988e0b8db0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>d4f1eb37-8295-4705-98b0-6ceae678e79f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ef9a55f9-79d4-43f5-9dab-04988e0b8db0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>CompensationModel</value>
+      <variableId>a93c474d-20db-4fa4-9d44-2dceaf04f28b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA19_VerifySpecialtiesDisplayedInTheSpecialtyDropdown')</defaultValue>
+      <description></description>
+      <id>1b2ac2b4-8e8f-42c5-8935-6dcb50798983</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d4f1eb37-8295-4705-98b0-6ceae678e79f</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA19_VerifySpecialtiesDisplayedInTheSpecialtyDropdown').getValue('CompensationModel', 1)</defaultValue>
+      <description></description>
+      <id>a93c474d-20db-4fa4-9d44-2dceaf04f28b</id>
+      <masked>false</masked>
+      <name>CompensationModel</name>
+   </variable>
+</TestCaseEntity>

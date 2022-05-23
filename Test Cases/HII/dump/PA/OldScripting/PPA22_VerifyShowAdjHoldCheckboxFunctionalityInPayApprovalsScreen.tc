@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA22_VerifyShowAdjHoldCheckboxFunctionalityInPayApprovalsScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>143e5651-f24e-43f0-aa91-8cd8d7f29b4a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA22_VerifyShowAdjHoldCheckboxFunctionalityInPayApprovalsScreen')</defaultValue>
+      <description></description>
+      <id>dd4b2b0a-a4e3-43ed-8ebf-7485b902938e</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

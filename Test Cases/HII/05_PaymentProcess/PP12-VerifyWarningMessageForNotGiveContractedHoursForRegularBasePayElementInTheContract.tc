@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PP12-VerifyWarningMessageForNotGiveContractedHoursForRegularBasePayElementInTheContract</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bab02d2d-3c75-4734-b12a-afe30f484de5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b2623630-a93e-40ba-a1e5-2441950040fe</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/05_PaymentProcess/td_PP12-VerifyWarningMessageForNotGiveContractedHoursForRegularBasePayElementInTheContract</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b2623630-a93e-40ba-a1e5-2441950040fe</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>3f679305-e55f-4b96-bbd5-88429734bea2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b2623630-a93e-40ba-a1e5-2441950040fe</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PayCycle</value>
+      <variableId>03c207a0-3e71-4542-b155-a7e7b7cffe01</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b2623630-a93e-40ba-a1e5-2441950040fe</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Year</value>
+      <variableId>689dccb6-c75b-4f89-9e41-692b9cf233e5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b2623630-a93e-40ba-a1e5-2441950040fe</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PayPeriod</value>
+      <variableId>fe060ca9-9fe3-4cf8-aea9-dc51ce55f9ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b2623630-a93e-40ba-a1e5-2441950040fe</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Location</value>
+      <variableId>26a1a360-a899-4374-8e03-fbb6a4ac27ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Region-2'</defaultValue>
+      <description></description>
+      <id>3f679305-e55f-4b96-bbd5-88429734bea2</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>'Calendar Month'</defaultValue>
+      <description></description>
+      <id>03c207a0-3e71-4542-b155-a7e7b7cffe01</id>
+      <masked>false</masked>
+      <name>PayCycle</name>
+   </variable>
+   <variable>
+      <defaultValue>'2022'</defaultValue>
+      <description></description>
+      <id>689dccb6-c75b-4f89-9e41-692b9cf233e5</id>
+      <masked>false</masked>
+      <name>Year</name>
+   </variable>
+   <variable>
+      <defaultValue>'02/01/2022 - 02/28/2022'</defaultValue>
+      <description></description>
+      <id>fe060ca9-9fe3-4cf8-aea9-dc51ce55f9ce</id>
+      <masked>false</masked>
+      <name>PayPeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>'Location -10'</defaultValue>
+      <description></description>
+      <id>26a1a360-a899-4374-8e03-fbb6a4ac27ab</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_VerifyProviderName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9d59575-79ce-4d2e-b59f-6292679d04a0</testCaseGuid>
+   <variable>
+      <defaultValue>'100011'</defaultValue>
+      <description></description>
+      <id>458e0cdc-0751-4486-8537-3fb8f66fa782</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

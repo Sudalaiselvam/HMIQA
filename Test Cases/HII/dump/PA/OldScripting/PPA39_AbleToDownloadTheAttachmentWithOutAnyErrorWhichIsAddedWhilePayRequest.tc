@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA39_AbleToDownloadTheAttachmentWithOutAnyErrorWhichIsAddedWhilePayRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a646bd5e-8cc9-4317-8dad-db3b758fb35d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA39_AbleToDownloadTheAttachmentWithOutAnyErrorWhichIsAddedWhilePayRequest')</defaultValue>
+      <description></description>
+      <id>6d92fe36-86ec-47a6-b4c7-834edeeda77b</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

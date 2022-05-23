@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test scenario is to verify eligible provider should be listed in ProviderName field</description>
+   <name>PPR01_VerifyProviderNameWebserviceFunctionalityInSinglePayRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a313e230-b7dc-40f6-9e27-d42911b637c9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a394cdec-55b8-4698-b5ed-9674f11955cc</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/03_ProviderPayRequest/td_PPR01_VerifyProviderNameWebserviceFunctionalityInSinglePayRequest</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a394cdec-55b8-4698-b5ed-9674f11955cc</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProviderName</value>
+      <variableId>c86acdec-abe0-4cdd-94e1-caa2be961d94</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c86acdec-abe0-4cdd-94e1-caa2be961d94</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+</TestCaseEntity>

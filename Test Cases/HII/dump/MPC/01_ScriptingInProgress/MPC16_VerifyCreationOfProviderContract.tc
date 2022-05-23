@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MPC16_VerifyCreationOfProviderContract</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec86fa80-e24a-404f-be6e-4163c2706529</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('Provider', 1)</defaultValue>
+      <description></description>
+      <id>13e0afcb-2425-4fbf-9f39-32e35cbf449e</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('MasterContractStartDate', 1)</defaultValue>
+      <description></description>
+      <id>410c25a5-e96e-4f62-94d5-67ff899972c7</id>
+      <masked>false</masked>
+      <name>MasterContractStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('MasterContractEndDate', 1)</defaultValue>
+      <description></description>
+      <id>9115715e-9a8a-4ba4-bd34-7e8b4e24ed21</id>
+      <masked>false</masked>
+      <name>MasterContractEndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('MasterCompensationModel', 1)</defaultValue>
+      <description></description>
+      <id>13759a05-2430-4c3c-ada1-c7b5804547c4</id>
+      <masked>false</masked>
+      <name>MasterCompensationModel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('MarkComplete', 1)</defaultValue>
+      <description></description>
+      <id>cd469494-912f-4d5e-a89a-2cac69f04bc4</id>
+      <masked>false</masked>
+      <name>MarkComplete</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('ContractStartDate', 1)</defaultValue>
+      <description></description>
+      <id>cd772166-b98a-45d0-9b9d-df7b2d035dc6</id>
+      <masked>false</masked>
+      <name>ContractStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('ContractEndDate', 1)</defaultValue>
+      <description></description>
+      <id>d897f705-6c94-45bd-b81a-3347f8d08173</id>
+      <masked>false</masked>
+      <name>ContractEndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('PayElement', 1)</defaultValue>
+      <description></description>
+      <id>e8437cf8-f6c8-4ba5-ab22-e7dff3759877</id>
+      <masked>false</masked>
+      <name>PayElement</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('PayElementStartDate', 1)</defaultValue>
+      <description></description>
+      <id>e8437cf8-f6c8-4ba5-ab22-e7dff3759877</id>
+      <masked>false</masked>
+      <name>PayElementStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('PayElementEndDate', 1)</defaultValue>
+      <description></description>
+      <id>e8437cf8-f6c8-4ba5-ab22-e7dff3759877</id>
+      <masked>false</masked>
+      <name>PayElementEndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('PayElementPayFrequency', 1)</defaultValue>
+      <description></description>
+      <id>e8437cf8-f6c8-4ba5-ab22-e7dff3759877</id>
+      <masked>false</masked>
+      <name>PayElementPayFrequency</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('PayElementAmountType', 1)</defaultValue>
+      <description></description>
+      <id>e8437cf8-f6c8-4ba5-ab22-e7dff3759877</id>
+      <masked>false</masked>
+      <name>PayElementAmountType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('PayElementAnnAmountRate', 1)</defaultValue>
+      <description></description>
+      <id>e8437cf8-f6c8-4ba5-ab22-e7dff3759877</id>
+      <masked>false</masked>
+      <name>PayElementAnnAmountRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('PayElementUnit', 1)</defaultValue>
+      <description></description>
+      <id>e8437cf8-f6c8-4ba5-ab22-e7dff3759877</id>
+      <masked>false</masked>
+      <name>PayElementUnit</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('PayElementThresholdUnitsAmount', 1)</defaultValue>
+      <description></description>
+      <id>e8437cf8-f6c8-4ba5-ab22-e7dff3759877</id>
+      <masked>false</masked>
+      <name>PayElementThresholdUnitsAmount</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyCreateProviderContract').getValue('PayElementThresholdFrequency', 1)</defaultValue>
+      <description></description>
+      <id>e8437cf8-f6c8-4ba5-ab22-e7dff3759877</id>
+      <masked>false</masked>
+      <name>PayElementThresholdFrequency</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PP19-PP20-PP22-PP23-VerifyGLAccNoHIICCID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>820e0a41-86d2-40c4-b503-8c722d677231</testCaseGuid>
+   <variable>
+      <defaultValue>'Region-1'</defaultValue>
+      <description></description>
+      <id>5cc6d3c4-08cd-4f6c-ba03-68ed097288ee</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sunday to Saturday-2'</defaultValue>
+      <description></description>
+      <id>4a573863-ac7c-4aad-b8e7-ea203ed5ec33</id>
+      <masked>false</masked>
+      <name>PayCycle</name>
+   </variable>
+   <variable>
+      <defaultValue>'2022'</defaultValue>
+      <description></description>
+      <id>322fe3a1-627d-437a-9dec-dc644224c541</id>
+      <masked>false</masked>
+      <name>Year</name>
+   </variable>
+   <variable>
+      <defaultValue>'01/02/2022 - 01/15/2022'</defaultValue>
+      <description></description>
+      <id>83fb836d-79fa-4485-ac5b-9589994d53da</id>
+      <masked>false</masked>
+      <name>PayPeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>'PaymentProcess05'</defaultValue>
+      <description></description>
+      <id>04f1930b-916f-45a9-852d-4ce38e62970e</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

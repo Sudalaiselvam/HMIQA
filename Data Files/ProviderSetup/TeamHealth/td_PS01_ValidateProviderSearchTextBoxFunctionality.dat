@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PS01_ValidateProviderSearchTextBoxFunctionality</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>cf85c2bc-afcd-49b4-a8f6-59f0462794b7</dataFileGUID>
+   <dataSourceUrl>Data Files/ProviderSetup/TeamHealth/Excel/PS01_ValidateProviderSearchTextBoxFunctionality.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

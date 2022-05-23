@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR13_VerifyUpdatingPayRequestByCompensationAdministrator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ada1a3fb-77b4-4c35-967b-13eb08f70fc4</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_VerifyUpdatingPayRequestByCompensationAdministrator')</defaultValue>
+      <description></description>
+      <id>4e10dc16-0696-4384-b4b0-bb206ebf9fe9</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

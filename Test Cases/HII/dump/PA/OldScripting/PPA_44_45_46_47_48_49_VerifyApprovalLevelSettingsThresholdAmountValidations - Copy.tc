@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA_44_45_46_47_48_49_VerifyApprovalLevelSettingsThresholdAmountValidations - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a29a8d2-6258-450e-ae18-2e77a860d9b1</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_VerifyApprovalLevelSettingsThresholdAmountValidations')</defaultValue>
+      <description></description>
+      <id>292e02d6-8c2f-4b9f-988f-67338c9ae742</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

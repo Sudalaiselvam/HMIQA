@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_verifyPayRequestCreationWhenPayElementValueExceedsMaxCompensationDurationAcrossMasterContracts</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b87b22bf-636c-46c3-9402-6776cf7065f9</dataFileGUID>
+   <dataSourceUrl>Data Files/ProviderPayRequest/verifyMaxCompensationDurationAcrossMasterContracts.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Continue_ExceedLimit</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

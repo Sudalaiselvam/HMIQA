@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Automation Test scenario covers below list of functionalities
+
+1. ADD CONTRACT button functionality
+2. Provider Web Service after clicking ADD CONTRACT option</description>
+   <name>MPC04_VerifyProviderWebServiceAfterClickingADDCONTRACT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42346214-e3e0-4914-9d6f-35ec8e40842d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>661c01a5-54af-47e6-8db8-c99be2f5d52e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/02_ManageProviderContract/td_MPC04_VerifyProviderWebServiceAfterClickingADDCONTRACT</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>661c01a5-54af-47e6-8db8-c99be2f5d52e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>4da19ff6-66c6-46ab-ae50-b800646930e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4da19ff6-66c6-46ab-ae50-b800646930e8</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

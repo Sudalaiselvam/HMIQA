@@ -1,0 +1,5 @@
+import pages.HeaderPageSteps
+import pages.ProviderPayRequestSteps
+
+HeaderPageSteps.gotoProviderPayRequest()
+ProviderPayRequestSteps.verifyPageNavigationtoProviderPayRequest()

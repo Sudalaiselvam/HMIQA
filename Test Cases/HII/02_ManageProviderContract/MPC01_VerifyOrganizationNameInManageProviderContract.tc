@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is to verify Organization Name in Manage Provider Contract Screen</description>
+   <name>MPC01_VerifyOrganizationNameInManageProviderContract</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff818161-d320-4a92-8269-695b1f322ab9</testCaseGuid>
+</TestCaseEntity>

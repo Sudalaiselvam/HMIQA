@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to validate creation of Provider with basic automated test  data</description>
+   <name>ValidateCreateProviderWithAutomatedTestData</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>b77ea1df-d09a-4917-9dae-d861740001ab</testCaseGuid>
+</TestCaseEntity>

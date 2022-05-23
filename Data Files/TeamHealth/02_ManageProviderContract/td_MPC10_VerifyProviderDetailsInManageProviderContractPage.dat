@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_MPC10_VerifyProviderDetailsInManageProviderContractPage</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>9c16068d-91bc-4f1a-84a5-bc63b63ddb5c</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/02_ManageProviderContract/MPC10_VerifyProviderDetailsInManageProviderContractPage.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

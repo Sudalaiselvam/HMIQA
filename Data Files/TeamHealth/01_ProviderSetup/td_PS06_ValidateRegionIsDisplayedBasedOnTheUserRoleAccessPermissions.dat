@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PS06_ValidateRegionIsDisplayedBasedOnTheUserRoleAccessPermissions</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>44470729-e1a9-4998-ad31-a855a0de25aa</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/01_ProviderSetup/PS06_ValidateRegionIsDisplayedBasedOnTheUserRoleAccessPermissions.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>ManageUserInformation</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

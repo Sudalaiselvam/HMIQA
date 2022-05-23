@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PP13-PP14-PP15-PP16-PP17-VerifyPayElementData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04252da0-1827-4639-9f1d-891f09ff592c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d9ef369-e863-4cbe-9bc4-806bbcd6cb04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4dfdce13-9fa0-466e-9906-82ffcbc16f9d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f3e6099-ec0b-4358-9ae9-7862971a2e1a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b66809a-0b00-4686-8bf6-79ed0fcbd67d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83d40dea-06ba-446b-b79c-c2725af2ebac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PaymentProcess05'</defaultValue>
+      <description></description>
+      <id>0d9ef369-e863-4cbe-9bc4-806bbcd6cb04</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'2022'</defaultValue>
+      <description></description>
+      <id>4dfdce13-9fa0-466e-9906-82ffcbc16f9d</id>
+      <masked>false</masked>
+      <name>Year</name>
+   </variable>
+   <variable>
+      <defaultValue>'01/02/2022 - 01/15/2022'</defaultValue>
+      <description></description>
+      <id>1f3e6099-ec0b-4358-9ae9-7862971a2e1a</id>
+      <masked>false</masked>
+      <name>PayPeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sunday to Saturday-2'</defaultValue>
+      <description></description>
+      <id>2b66809a-0b00-4686-8bf6-79ed0fcbd67d</id>
+      <masked>false</masked>
+      <name>PayCycle</name>
+   </variable>
+   <variable>
+      <defaultValue>'01/16/2022 - 01/29/2022\r\n01/30/2022 - 02/12/2022\r\n01/02/2022 - 01/15/2022'</defaultValue>
+      <description></description>
+      <id>83d40dea-06ba-446b-b79c-c2725af2ebac</id>
+      <masked>false</masked>
+      <name>Sampletestdata</name>
+   </variable>
+</TestCaseEntity>

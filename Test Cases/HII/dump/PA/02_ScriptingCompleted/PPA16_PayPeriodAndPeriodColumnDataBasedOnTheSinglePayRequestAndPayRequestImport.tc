@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA16_PayPeriodAndPeriodColumnDataBasedOnTheSinglePayRequestAndPayRequestImport</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>039d4952-ff65-4582-9327-136be8e69e0c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA35_PayPeriodAndPeriodColumnDataBasedOnTheSinglePayRequestAndPayRequestImport')</defaultValue>
+      <description></description>
+      <id>e632d3b9-c897-4977-b30d-f59c3d6db6fb</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

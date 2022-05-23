@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPR19_VerifyPayRequestCreationCancellationWhenPayElementValueExceedsMaxCompensationDurationAcrossMasterContracts</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>28199fe8-dd57-4c87-a228-4922aa317e1a</dataFileGUID>
+   <dataSourceUrl>Data Files/ProviderPayRequest/PPR19_VerifyPayRequestCreationCancellationWhenPayElementValueExceedsMaxCompensationDurationAcrossMasterContracts.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Cancellation_ExceedLimit</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

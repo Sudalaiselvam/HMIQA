@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR05_VerifyTerminationDateIsOnlyDisplayedWhenTerminatedProviderNameIsSelected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa0b5960-a9c5-479f-8d44-fb85328cea5e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ce220f72-388b-4afa-9188-adf271892a99</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/03_ProviderPayRequest/td_PPR05_VerifyTerminationDateIsOnlyDisplayedWhenTerminatedProviderNameIsSelected</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ce220f72-388b-4afa-9188-adf271892a99</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProviderName</value>
+      <variableId>41774c76-75e2-4351-a219-a095eafe7e64</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>41774c76-75e2-4351-a219-a095eafe7e64</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPR15_VerifyWhetherTheYellowBackGroundIsDisplayingOrNotWhenThePayElementReachesTheMaxThresholdWhenWeContinue</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>2bce8b2a-4082-472b-bbde-2af8123bccff</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/03_ProviderPayRequest/PPR15_VerifyWhetherTheYellowBackGroundIsDisplayingOrNotWhenThePayElementReachesTheMaxThresholdWhenWeContinue.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

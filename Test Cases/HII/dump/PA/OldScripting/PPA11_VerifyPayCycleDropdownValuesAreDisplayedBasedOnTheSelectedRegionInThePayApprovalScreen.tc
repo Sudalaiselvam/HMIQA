@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA11_VerifyPayCycleDropdownValuesAreDisplayedBasedOnTheSelectedRegionInThePayApprovalScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>000e4fdc-c357-447d-839c-8476a4615ade</testCaseGuid>
+   <variable>
+      <defaultValue>'Region-2'</defaultValue>
+      <description></description>
+      <id>e6b4e105-1d7c-4366-b73f-c36ac069fab2</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA11_VerifyPayCycleDropdownValuesAreDisplayedBasedOnTheSelectedRegionInThePayApprovalScreen')</defaultValue>
+      <description></description>
+      <id>89bb9f01-86fd-4561-bd9f-0e323e2efcab</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

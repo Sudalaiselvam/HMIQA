@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA08_VerifySpecialtiesDisplayedInTheSpecialtyDropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96caed91-5837-4d6b-a032-a3385758298c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA19_VerifySpecialtiesDisplayedInTheSpecialtyDropdown')</defaultValue>
+      <description></description>
+      <id>676b01bd-5461-4cae-a5a7-655676846a49</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

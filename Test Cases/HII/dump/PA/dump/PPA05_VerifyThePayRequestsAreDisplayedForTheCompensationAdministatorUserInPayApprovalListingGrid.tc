@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA05_VerifyThePayRequestsAreDisplayedForTheCompensationAdministatorUserInPayApprovalListingGrid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e8e0eeb-985f-4bb8-8467-1d0298125063</testCaseGuid>
+   <variable>
+      <defaultValue>'PayRequest001'</defaultValue>
+      <description></description>
+      <id>a0d5b29d-4156-4d94-a0cd-fd9453b26e61</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

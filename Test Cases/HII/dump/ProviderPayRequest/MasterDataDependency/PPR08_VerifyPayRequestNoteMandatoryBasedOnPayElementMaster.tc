@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR08_VerifyPayRequestNoteMandatoryBasedOnPayElementMaster</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e243a3d6-72d3-477d-9ab1-874c9ff00676</testCaseGuid>
+   <variable>
+      <defaultValue>'238691'</defaultValue>
+      <description></description>
+      <id>ed99e170-1387-4cb2-a944-1c7a9f7baa17</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'08/11/2020'</defaultValue>
+      <description></description>
+      <id>6821a861-2ebb-47ef-9735-f1ff8d95cc57</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'RVU with Floor - Cost Center-219-2020'</defaultValue>
+      <description></description>
+      <id>c3e755b4-d2cd-449d-8a34-ed864bb40a14</id>
+      <masked>false</masked>
+      <name>CompensationModel</name>
+   </variable>
+   <variable>
+      <defaultValue>'Excess Call Pay ~ 01/01/2020-12/31/2020'</defaultValue>
+      <description></description>
+      <id>da60d990-87ef-47c5-87b5-3c100eac6aca</id>
+      <masked>false</masked>
+      <name>PayElement</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce2aa6df-1bc7-47b4-bccf-ca1dc9bcadac</id>
+      <masked>false</masked>
+      <name>PayRequestNote</name>
+   </variable>
+</TestCaseEntity>

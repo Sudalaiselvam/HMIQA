@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR05_VerifyTerminationDateIsOnlyDisplayedWhenTerminatedProviderNameIsSelected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76942fd0-7638-442c-bf54-3c91ec928168</testCaseGuid>
+   <variable>
+      <defaultValue>'199011'</defaultValue>
+      <description></description>
+      <id>4108ce74-d100-4890-af10-a4a0802b0184</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_PPR05_VerifyTerminationDateIsOnlyDisplayedWhenTerminatedProviderNameIsSelected')</defaultValue>
+      <description></description>
+      <id>80542aa8-cea8-47a4-b9c6-bafd6d625943</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PP19-PP20-PP22-PP23-VerifyGLAccNoHIICCID</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d16f245a-7ad7-452c-9bbc-04ea86e36055</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/05_PaymentProcess/PP19-PP20-PP22-PP23-VerifyGLAccNoHIICCID.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

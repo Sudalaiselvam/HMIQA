@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PP28-VerifyProcessByProviderCannotBeSelectedAfterClickOnProcessCompensationButton</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e6aab14f-5947-46d3-9f06-81be74391c8a</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/05_PaymentProcess/PP28-VerifyProcessByProviderCannotBeSelectedAfterClickOnProcessCompensationButton.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

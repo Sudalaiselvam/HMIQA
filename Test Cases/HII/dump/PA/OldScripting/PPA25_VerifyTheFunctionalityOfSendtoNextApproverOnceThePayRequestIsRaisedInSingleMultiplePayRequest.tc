@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA25_VerifyTheFunctionalityOfSendtoNextApproverOnceThePayRequestIsRaisedInSingleMultiplePayRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03370332-cdf4-491a-b9e0-40047d9c3e09</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA25_VerifyTheFunctionalityOfSendtoNextApproverOnceThePayRequestIsRaisedInSingleMultiplePayRequest')</defaultValue>
+      <description></description>
+      <id>2e1c2696-4334-4851-999f-7afdc33a7173</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

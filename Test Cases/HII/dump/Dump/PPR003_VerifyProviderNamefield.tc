@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR003_VerifyProviderNamefield</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e266947-2783-4293-bd02-3e158aa31d35</testCaseGuid>
+   <variable>
+      <defaultValue>'THPZ078'</defaultValue>
+      <description></description>
+      <id>f6b83457-1e7b-47a0-8d06-f64cc08540f6</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

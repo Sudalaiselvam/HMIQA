@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MPC14_</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e22cdf90-f910-455b-a1af-66c5d8bb11f3</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyContractTabAdding').getValue('Provider', 1)</defaultValue>
+      <description></description>
+      <id>0132d562-3a2f-4cbc-84a8-38f03aaae6db</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyContractTabAdding').getValue('MasterContractStartDate', 1)</defaultValue>
+      <description></description>
+      <id>998eb53c-a236-4ebe-bd32-9b732132dfa2</id>
+      <masked>false</masked>
+      <name>MasterContractStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyContractTabAdding').getValue('MasterContractEndDate', 1)</defaultValue>
+      <description></description>
+      <id>3877f330-78c8-48e8-91cd-799373228dee</id>
+      <masked>false</masked>
+      <name>MasterContractEndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/TeamHealth/td_VerifyContractTabAdding').getValue('MasterCompensationModel', 1)</defaultValue>
+      <description></description>
+      <id>97685c56-6751-4d4c-85c1-50d3302e6345</id>
+      <masked>false</masked>
+      <name>MasterCompensationModel</name>
+   </variable>
+</TestCaseEntity>

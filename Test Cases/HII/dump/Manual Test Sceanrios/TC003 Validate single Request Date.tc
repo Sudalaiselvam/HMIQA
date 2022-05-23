@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003 Validate single Request Date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34b4908d-eb92-403d-b6b9-fee6bf2a3f1c</testCaseGuid>
+   <variable>
+      <defaultValue>'PayRequest001'</defaultValue>
+      <description></description>
+      <id>27a3e9dd-db56-4c50-8ec2-2a8cde84df42</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'08/11/2021'</defaultValue>
+      <description></description>
+      <id>4ca889c6-8af1-495b-ba83-c197faa108a4</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+</TestCaseEntity>

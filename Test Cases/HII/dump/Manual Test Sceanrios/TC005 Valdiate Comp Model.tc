@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005 Valdiate Comp Model</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad7605ab-755d-4fab-add6-962acae8ec72</testCaseGuid>
+   <variable>
+      <defaultValue>'THPZ078'</defaultValue>
+      <description></description>
+      <id>ed99e170-1387-4cb2-a944-1c7a9f7baa17</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'08/11/2021'</defaultValue>
+      <description></description>
+      <id>6821a861-2ebb-47ef-9735-f1ff8d95cc57</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+</TestCaseEntity>

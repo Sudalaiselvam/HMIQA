@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test scenario is to verify eligible provider should be listed in ProviderName field
+
+Below list of Manual Test Cases Covers
+
+Verify  'Provider'  - Web Service  field functionality  in 'Provider Pay Approval'  screen.
+
+Verify  whether based on the 'Provider'  - Web Service the  pay approvals screen will be displayed or not, once the pay request is raised in single/multiple pay request
+
+</description>
+   <name>PPA01_VerifyProviderNameWebServiceFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>458dc047-fae8-418d-aed1-6e665eeb88df</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_VerifyProviderNameWebserviceFunctionalityInProviderPayApprovalsScreen')</defaultValue>
+      <description></description>
+      <id>4b5a515d-f9a0-439b-a7a5-ba2a88d7ca81</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

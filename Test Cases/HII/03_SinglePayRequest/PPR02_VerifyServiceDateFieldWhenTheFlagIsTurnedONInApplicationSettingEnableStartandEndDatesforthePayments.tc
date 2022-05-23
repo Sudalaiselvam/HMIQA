@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR02_VerifyServiceDateFieldWhenTheFlagIsTurnedONInApplicationSettingEnableStartandEndDatesforthePayments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b243efb4-bd82-4c1d-9e0b-f8d210f28ea3</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2416a6f1-b513-4801-bebc-b610de2cecf3</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/03_ProviderPayRequest/td_PPR02_VerifyServiceDateFieldWhenTheFlagIsTurnedONInApplicationSettingEnableStartandEndDatesforthePayments</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20fcab17-9a89-4149-8593-d3fdd4a8e8dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2416a6f1-b513-4801-bebc-b610de2cecf3</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProviderName</value>
+      <variableId>f9264021-539e-4a59-b536-9e3249c3d010</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2416a6f1-b513-4801-bebc-b610de2cecf3</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>RequestDate</value>
+      <variableId>4f90e36c-fc4f-459c-8a23-6a547d6fee1f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_PPR02_VerifyServiceDateFieldWhenTheFlagIsTurnedONInApplicationSettingEnableStartandEndDatesforthePayments')</defaultValue>
+      <description></description>
+      <id>20fcab17-9a89-4149-8593-d3fdd4a8e8dd</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9264021-539e-4a59-b536-9e3249c3d010</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4f90e36c-fc4f-459c-8a23-6a547d6fee1f</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+</TestCaseEntity>

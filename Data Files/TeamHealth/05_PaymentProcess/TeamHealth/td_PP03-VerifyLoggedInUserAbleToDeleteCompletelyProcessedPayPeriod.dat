@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PP03-VerifyLoggedInUserAbleToDeleteCompletelyProcessedPayPeriod</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>19195ccc-a88a-4bc8-a505-0eb5712823f6</dataFileGUID>
+   <dataSourceUrl>Data Files/PaymentProcess/TeamHealth/ExcelFiles/PP03-VerifyLoggedInUserAbleToDeleteCompletelyProcessedPayPeriod.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PP12-VerifyWarningMessageForNotGiveContractedHoursForRegularBasePayElementInTheContract</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>8d103de2-0dbd-40bf-a659-6ce02bfde922</dataFileGUID>
+   <dataSourceUrl>Data Files/TeamHealth/05_PaymentProcess/PP12-VerifyWarningMessageForNotGiveContractedHoursForRegularBasePayElementInTheContract.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

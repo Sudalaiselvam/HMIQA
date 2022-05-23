@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR11_ToVerifyTheValueDisplayingInTheYTDAmount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b23e1b7-bed1-4989-ba9d-fb6f5b600cb5</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_ToVerifyTheValueDisplayingInTheYTDAmount')</defaultValue>
+      <description></description>
+      <id>742be0d3-68d1-44ec-960f-ac74608b27b6</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

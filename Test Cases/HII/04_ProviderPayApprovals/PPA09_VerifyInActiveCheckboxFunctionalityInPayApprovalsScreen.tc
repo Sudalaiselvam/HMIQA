@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA09_VerifyInActiveCheckboxFunctionalityInPayApprovalsScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31783cb7-c4ff-4f71-9cc6-29fbaf101fb5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b38ce82f-f3c3-4ca5-aa12-66944cff931d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/04_ProviderPayApprovals/td_PPA09_VerifyInActiveCheckboxFunctionalityInPayApprovalsScreen</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10060aec-1b43-4dae-aac1-9796784eae74</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b38ce82f-f3c3-4ca5-aa12-66944cff931d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>1671a93c-5cf4-4dbe-b28c-640064cb3340</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA21_VerifyInActiveCheckboxFunctionalityInPayApprovalsScreen')</defaultValue>
+      <description></description>
+      <id>10060aec-1b43-4dae-aac1-9796784eae74</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1671a93c-5cf4-4dbe-b28c-640064cb3340</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

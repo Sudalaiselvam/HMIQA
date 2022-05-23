@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PPR20_VerifyPayRequestCreationWhenPayElementValueExceedsMaxCompensationDurationAcrossMasterContracts</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>71a24694-bf2a-4e6b-b1d4-f9e9323ad567</dataFileGUID>
+   <dataSourceUrl>Data Files/ProviderPayRequest/PPR20_VerifyPayRequestCreationWhenPayElementValueExceedsMaxCompensationDurationAcrossMasterContracts.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Continue_ExceedLimit</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

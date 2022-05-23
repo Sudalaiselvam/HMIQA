@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR09_VerifyUploadFilesMandatoryBasedOnPayElementMaster</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d44abe69-38c0-4a4c-9c97-52d5161a7d95</testCaseGuid>
+</TestCaseEntity>

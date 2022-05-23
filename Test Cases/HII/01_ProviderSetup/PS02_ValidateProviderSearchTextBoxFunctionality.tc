@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to validate Provider Search Functionality</description>
+   <name>PS02_ValidateProviderSearchTextBoxFunctionality</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>98cebb72-6a46-4bbf-96a6-dae20916c32a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e590b9eb-8780-4911-bb1d-d8a43e0637d6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/01_ProviderSetup/td_PS02_ValidateProviderSearchTextBoxFunctionality</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d0597cf-208f-4d2f-a164-41666351138f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'238693'</defaultValue>
+      <description></description>
+      <id>2d0597cf-208f-4d2f-a164-41666351138f</id>
+      <masked>false</masked>
+      <name>ProviderSearch</name>
+   </variable>
+</TestCaseEntity>

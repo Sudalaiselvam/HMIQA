@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ToVerifyTheFunctionalityOfChooseFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b90938c-19be-4691-a3fc-b504b1ad777c</testCaseGuid>
+   <variable>
+      <defaultValue>'PayRequest003'</defaultValue>
+      <description></description>
+      <id>8b4d5926-c9f9-405d-9ee2-cea6293480e3</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'11/11/2021'</defaultValue>
+      <description></description>
+      <id>80815640-a29a-409e-9ac9-8f05205b3bce</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c0e67154-2035-405c-b923-9a5030d08e81</id>
+      <masked>false</masked>
+      <name>CompensationModel</name>
+   </variable>
+   <variable>
+      <defaultValue>'Base Draw ~ 01/01/2021-12/31/2021'</defaultValue>
+      <description></description>
+      <id>ace2d593-474a-46c6-bd6a-badb39893a13</id>
+      <masked>false</masked>
+      <name>PayElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test001.txt'</defaultValue>
+      <description></description>
+      <id>3d864b7d-61ba-4c98-856c-9c79a57c513b</id>
+      <masked>false</masked>
+      <name>FileName</name>
+   </variable>
+</TestCaseEntity>

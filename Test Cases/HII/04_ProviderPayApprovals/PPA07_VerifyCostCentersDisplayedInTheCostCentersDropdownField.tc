@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA07_VerifyCostCentersDisplayedInTheCostCentersDropdownField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f979f92-0c06-4b62-82e4-561bbcad6ea2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>fade4ee0-8000-497e-9d7e-7ffb63a50173</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/04_ProviderPayApprovals/td_PPA07_VerifyCostCentersDisplayedInTheCostCentersDropdownField</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ef2df7d-9862-4634-a517-be14c32460e8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>fade4ee0-8000-497e-9d7e-7ffb63a50173</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>8caf17a8-93a9-4985-a37c-10550580d3c1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>fade4ee0-8000-497e-9d7e-7ffb63a50173</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Location</value>
+      <variableId>238201d6-a29b-49b2-b6fe-1ea324b5ac04</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA18_VerifyCostCentersDisplayedInTheCostCentersDropdownField')</defaultValue>
+      <description></description>
+      <id>6ef2df7d-9862-4634-a517-be14c32460e8</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8caf17a8-93a9-4985-a37c-10550580d3c1</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA18_VerifyCostCentersDisplayedInTheCostCentersDropdownField').getValue('Location', 1)</defaultValue>
+      <description></description>
+      <id>238201d6-a29b-49b2-b6fe-1ea324b5ac04</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+</TestCaseEntity>

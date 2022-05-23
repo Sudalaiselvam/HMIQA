@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA36_PayPeriodShouldBeBasedOnTheServiceDateGivenInThePayRequestScreenButNotBasedOnThePayDate (2)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce0980eb-b1d0-408e-b92d-66b3bb6ad380</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA36_PayPeriodShouldBeBasedOnTheServiceDateGivenInThePayRequestScreenButNotBasedOnThePayDate')</defaultValue>
+      <description></description>
+      <id>cf6d9672-ab6d-4e8a-8b06-5e62d12298f5</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

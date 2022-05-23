@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PP02-VerifyPayPeriodDropdownForOrangeColorIfTheProcessedUserHasFewLocationsAndTheLoggedInUserHasAccessToAdditionalLocationsInTheRegion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d1b1b29-a3d9-438e-9d5a-fb4df4566d7b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48848353-c58f-47e0-b4b4-47cccfd18b10</id>
+      <masked>false</masked>
+      <name>E</name>
+   </variable>
+</TestCaseEntity>

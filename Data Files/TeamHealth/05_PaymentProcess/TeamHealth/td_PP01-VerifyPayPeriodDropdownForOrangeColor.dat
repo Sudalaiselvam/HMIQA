@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_PP01-VerifyPayPeriodDropdownForOrangeColor</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>829c011c-f7b6-4e1f-928c-2a2a6a1833ba</dataFileGUID>
+   <dataSourceUrl>Data Files/PaymentProcess/TeamHealth/ExcelFiles/PP01-VerifyPayPeriodDropdownForOrangeColor.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

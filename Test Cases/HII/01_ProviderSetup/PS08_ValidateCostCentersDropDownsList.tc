@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script valdiates below list of fields
+	1. PrimaryCostCenter
+	2. SecondaryCostCenter1
+	3. SecondaryCostCenter2</description>
+   <name>PS08_ValidateCostCentersDropDownsList</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>96d313e6-ffcf-4b8c-9194-be8a29c7b6cb</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2185d941-62b9-4af1-84e6-3daca6431cfe</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/01_ProviderSetup/td_PS08_ValidateCostCentersDropDownsList</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>2185d941-62b9-4af1-84e6-3daca6431cfe</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>cdf8f51b-fdc0-4eb1-b566-6a970256db54</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2185d941-62b9-4af1-84e6-3daca6431cfe</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Location</value>
+      <variableId>3e5c93cd-4e14-4f51-a70d-430d79962189</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Region-1'</defaultValue>
+      <description></description>
+      <id>cdf8f51b-fdc0-4eb1-b566-6a970256db54</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>'Location-1'</defaultValue>
+      <description></description>
+      <id>3e5c93cd-4e14-4f51-a70d-430d79962189</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify Termination Date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a83fac8-8aeb-43a3-9f5c-2476aa1c2c00</testCaseGuid>
+   <variable>
+      <defaultValue>'199011'</defaultValue>
+      <description></description>
+      <id>099f4098-3713-4562-9cfe-7237c14dcaa0</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

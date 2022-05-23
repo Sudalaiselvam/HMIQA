@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA37_UnitColumnCanBeUpdatedAndTheAmountShouldBeReflectedBasedOnTheUpdatedUnits</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>226381a7-8286-4cb6-a864-0f320e9c2265</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA37_UnitColumnCanBeUpdatedAndTheAmountShouldBeReflectedBasedOnTheUpdatedUnits')</defaultValue>
+      <description></description>
+      <id>87c8ed8e-de05-40bb-ab5a-c579435c55ef</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

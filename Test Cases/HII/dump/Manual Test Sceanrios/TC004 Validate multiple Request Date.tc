@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004 Validate multiple Request Date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52df73c5-b006-4bef-b858-84ec1cd82ea7</testCaseGuid>
+   <variable>
+      <defaultValue>'PayRequest001'</defaultValue>
+      <description></description>
+      <id>040051ca-dd4b-4a04-9b9a-10a64f8ed5c9</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>['08/11/2021', '08/09/2020']</defaultValue>
+      <description></description>
+      <id>32b99db3-0e74-45ae-b34c-f3c2652d7fcf</id>
+      <masked>false</masked>
+      <name>RequestDates</name>
+   </variable>
+</TestCaseEntity>

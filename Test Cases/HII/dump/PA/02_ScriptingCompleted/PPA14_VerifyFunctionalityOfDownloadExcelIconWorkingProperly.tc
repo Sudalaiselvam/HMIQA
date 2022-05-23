@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA14_VerifyFunctionalityOfDownloadExcelIconWorkingProperly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01f6dce4-ebd1-46da-a2e9-0fabee899fad</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_VerifyFunctionalityOfDownloadExcelIconWorkingProperly')</defaultValue>
+      <description></description>
+      <id>bdc922fa-065e-4f9b-a1be-6fe1fe8be8e3</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MPC26_VerifyDeletionOfContractTab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f98a859f-c225-488f-a5bd-89fd77ce31ef</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3b89c0ee-4021-43fa-9072-caad7f40088b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/02_ManageProviderContract/td_MPC26_VerifyDeletionOfContractTab</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3b89c0ee-4021-43fa-9072-caad7f40088b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>7bfad2c9-5dfc-4307-8b31-9c44a85b4e25</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3b89c0ee-4021-43fa-9072-caad7f40088b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MasterCompensationModel</value>
+      <variableId>1677d3f4-e1b7-4cf6-a39b-4f883c26a663</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7bfad2c9-5dfc-4307-8b31-9c44a85b4e25</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1677d3f4-e1b7-4cf6-a39b-4f883c26a663</id>
+      <masked>false</masked>
+      <name>MasterCompensationModel</name>
+   </variable>
+</TestCaseEntity>

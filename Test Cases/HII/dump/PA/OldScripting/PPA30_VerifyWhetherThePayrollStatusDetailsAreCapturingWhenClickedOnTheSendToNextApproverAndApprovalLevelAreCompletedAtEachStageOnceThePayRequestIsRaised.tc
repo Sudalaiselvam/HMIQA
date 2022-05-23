@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA30_VerifyWhetherThePayrollStatusDetailsAreCapturingWhenClickedOnTheSendToNextApproverAndApprovalLevelAreCompletedAtEachStageOnceThePayRequestIsRaised</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bce34aca-0ffb-4b2b-b642-0fdacd8ea05d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "FE2750D10043AF955AF61CE1A3A325FC",
+  "keywordClasses": [
+    {
+      "name": "testDataTypes.ProviderPayRequest",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

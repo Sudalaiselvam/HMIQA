@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR18_VerifyPayRequestCreationWhenPayElementValueExceedsMaxCompensationDurationWithintheContract</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55677e6e-07a5-49e5-b04d-e61563f0cd0d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_verifyPayRequestCreationWhenPayElementValueExceedsMaxCompensationDurationWithintheContract')</defaultValue>
+      <description></description>
+      <id>a0ea5e72-6432-4166-8a3a-6b6370d72ac2</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

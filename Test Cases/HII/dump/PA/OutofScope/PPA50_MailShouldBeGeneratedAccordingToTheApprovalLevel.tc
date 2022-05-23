@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA50_MailShouldBeGeneratedAccordingToTheApprovalLevel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df01cd18-6406-4e82-8362-fc3b81679d5a</testCaseGuid>
+</TestCaseEntity>

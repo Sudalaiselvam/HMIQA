@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA32_VerifyFunctionalityOfDownloadExcelIconWorkingProperly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>428af400-1e2f-4965-adef-350a7071a08d</testCaseGuid>
+</TestCaseEntity>

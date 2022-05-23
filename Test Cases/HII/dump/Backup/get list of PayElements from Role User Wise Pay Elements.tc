@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get list of PayElements from Role User Wise Pay Elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b684491-ec3b-41f0-b4f5-2a354fd05e87</testCaseGuid>
+   <variable>
+      <defaultValue>'238691'</defaultValue>
+      <description></description>
+      <id>79d2719b-5827-4b6a-88d0-fed31e80f6e9</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>'08/11/2020'</defaultValue>
+      <description></description>
+      <id>7d738b20-2ef4-459d-92e4-21c8bfedb384</id>
+      <masked>false</masked>
+      <name>RequestDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'RVU with Floor - Cost Center-219-2020'</defaultValue>
+      <description></description>
+      <id>4b0d894c-a6e2-49c3-9ad5-443bf30a8165</id>
+      <masked>false</masked>
+      <name>CompModel</name>
+   </variable>
+</TestCaseEntity>

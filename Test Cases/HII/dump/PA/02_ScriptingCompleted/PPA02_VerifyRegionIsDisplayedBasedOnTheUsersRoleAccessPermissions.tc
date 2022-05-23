@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>
+Below list of Manual Test Cases Covers
+
+Verify REGION is displayed based on the User's Role Access Permissions in Pay Approval Screen.</description>
+   <name>PPA02_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce6337c3-dc51-4426-885f-1e30bed61ecf</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA10_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissionsInPayApprovalScreen')</defaultValue>
+      <description></description>
+      <id>24adca7f-b67f-4e6d-ab7a-d42b53530999</id>
+      <masked>false</masked>
+      <name>ManageUserInformation</name>
+   </variable>
+</TestCaseEntity>

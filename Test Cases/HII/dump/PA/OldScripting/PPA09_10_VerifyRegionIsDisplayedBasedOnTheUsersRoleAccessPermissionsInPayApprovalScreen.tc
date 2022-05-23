@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA09_10_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissionsInPayApprovalScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9530cd7-8d94-46eb-8d6d-efd1e48cb913</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA10_VerifyRegionIsDisplayedBasedOnTheUsersRoleAccessPermissionsInPayApprovalScreen')</defaultValue>
+      <description></description>
+      <id>1630d6bd-d45c-4144-8232-7dacbb056f60</id>
+      <masked>false</masked>
+      <name>ManageUserInformation</name>
+   </variable>
+</TestCaseEntity>

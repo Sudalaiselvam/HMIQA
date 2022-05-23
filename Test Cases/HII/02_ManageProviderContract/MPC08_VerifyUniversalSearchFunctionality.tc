@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is to verify Universal Search Functionality</description>
+   <name>MPC08_VerifyUniversalSearchFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>725e14a6-40b5-43cc-bbf2-4b161866c698</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>119e7a0d-cfd2-4d90-b78c-daeca502e514</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/02_ManageProviderContract/td_MPC08_VerifyUniversalSearchFunctionality</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>119e7a0d-cfd2-4d90-b78c-daeca502e514</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UniversalSearch</value>
+      <variableId>d9be8e7a-1401-4404-b596-8e6d8e6d673d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d9be8e7a-1401-4404-b596-8e6d8e6d673d</id>
+      <masked>false</masked>
+      <name>UniversalSearch</name>
+   </variable>
+</TestCaseEntity>

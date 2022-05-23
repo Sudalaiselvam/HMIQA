@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA12_VerifyPayRequestUpdatedAsRejectedAfterMeeitngTheDenyLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba0c5ce3-2da3-4af0-985a-0d5b25e48faf</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_VerifyPayRequestUpdatedAsRejectedAfterMeeitngTheDenyLimit')</defaultValue>
+      <description></description>
+      <id>3a46e8a1-0224-44af-b610-6f5c626eb1ce</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

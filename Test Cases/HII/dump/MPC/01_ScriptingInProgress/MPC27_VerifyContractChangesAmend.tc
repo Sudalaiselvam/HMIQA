@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MPC27_VerifyContractChangesAmend</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dee5fb00-03fc-4faf-8adb-5e183fc8ea7a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('Provider', 1)</defaultValue>
+      <description></description>
+      <id>8ab22f57-53ea-49d4-9104-1d16e5c70d8b</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('MasterContractStartDate', 1)</defaultValue>
+      <description></description>
+      <id>9e98d569-9845-4d3d-b24d-074d8a487933</id>
+      <masked>false</masked>
+      <name>MasterContractStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('MasterContractEndDate', 1)</defaultValue>
+      <description></description>
+      <id>3f16c2d9-bf48-411f-9f18-faa055454393</id>
+      <masked>false</masked>
+      <name>MasterContractEndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('MasterCompensationModel', 1)</defaultValue>
+      <description></description>
+      <id>9ac67ac3-daa1-4666-84e7-83cfa295a159</id>
+      <masked>false</masked>
+      <name>MasterCompensationModel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('ContractStartDate', 1)</defaultValue>
+      <description></description>
+      <id>92357e4e-fc50-4015-9374-fdbce447c528</id>
+      <masked>false</masked>
+      <name>ContractStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ManageProviderContract/td-ScriptingTestData').getValue('ContractEndDate', 1)</defaultValue>
+      <description></description>
+      <id>267a5105-935a-4dd6-a624-4d06c6a17a2a</id>
+      <masked>false</masked>
+      <name>ContractEndDate</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is to verify Current Year drop down list after entering Master Contract Start Date &amp; Master Contract End Date</description>
+   <name>MPC11_VerifyCurrentYearDropDownField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5eb9e53-5dbe-4971-8593-3349b8b13054</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>0da6df4f-5d64-4607-98c3-b9c44fb61a0a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/02_ManageProviderContract/td_MPC11_VerifyCurrentYearDropDownField</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>0da6df4f-5d64-4607-98c3-b9c44fb61a0a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>e24b512e-6034-4455-8219-82bfd6ea07ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>0da6df4f-5d64-4607-98c3-b9c44fb61a0a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MasterContractStartDate</value>
+      <variableId>6fd3c4c7-0508-45e6-b602-0f40e9193ef6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>0da6df4f-5d64-4607-98c3-b9c44fb61a0a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MasterContractEndDate</value>
+      <variableId>b9f88232-8ab0-43cc-b661-1c40fd5513d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e24b512e-6034-4455-8219-82bfd6ea07ee</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6fd3c4c7-0508-45e6-b602-0f40e9193ef6</id>
+      <masked>false</masked>
+      <name>MasterContractStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b9f88232-8ab0-43cc-b661-1c40fd5513d5</id>
+      <masked>false</masked>
+      <name>MasterContractEndDate</name>
+   </variable>
+</TestCaseEntity>

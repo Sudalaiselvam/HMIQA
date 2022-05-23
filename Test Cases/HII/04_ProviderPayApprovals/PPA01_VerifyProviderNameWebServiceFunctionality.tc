@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test scenario is to verify eligible provider should be listed in ProviderName field
+
+Below list of Manual Test Cases Covers
+
+Verify  'Provider'  - Web Service  field functionality  in 'Provider Pay Approval'  screen.
+
+Verify  whether based on the 'Provider'  - Web Service the  pay approvals screen will be displayed or not, once the pay request is raised in single/multiple pay request
+
+</description>
+   <name>PPA01_VerifyProviderNameWebServiceFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b9e264c-b6c4-4f49-8c8b-a423fc3c1d7d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>65d75425-9710-497a-96da-c06d3b1e7aff</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/04_ProviderPayApprovals/td_PPA01_VerifyProviderNameWebServiceFunctionality</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85711561-7c15-414c-b94a-1a4f1c87242b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>65d75425-9710-497a-96da-c06d3b1e7aff</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProviderName</value>
+      <variableId>80582f51-a01c-48e3-b2d0-b96deff8e45d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_VerifyProviderNameWebserviceFunctionalityInProviderPayApprovalsScreen')</defaultValue>
+      <description></description>
+      <id>85711561-7c15-414c-b94a-1a4f1c87242b</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>80582f51-a01c-48e3-b2d0-b96deff8e45d</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+</TestCaseEntity>

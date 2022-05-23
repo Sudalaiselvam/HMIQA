@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA11_VerifyAbleToApproveORDenyThePayRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeae3574-d52e-4c22-98d2-08db41d7292f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_VerifyAbleToApproveORDenyThePayRequest')</defaultValue>
+      <description></description>
+      <id>956b68c9-7cb0-4faa-b26c-a2cdbf4243c3</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+</TestCaseEntity>

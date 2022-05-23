@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR04_VerifyServiceDateFieldWhenTheFlagIsTurnedOFFInApplicationSettingEnableStartandEndDatesforthePayments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9536e19e-fa5d-4f4f-8c08-089778600ceb</testCaseGuid>
+   <variable>
+      <defaultValue>'PayRequest001'</defaultValue>
+      <description></description>
+      <id>9eaf039b-5511-4bb5-9bdc-90257c9816ef</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+   <variable>
+      <defaultValue>['08/11/2021', '08/09/2020']</defaultValue>
+      <description></description>
+      <id>bae37e9c-146d-4296-a556-2c7a45d9b1dd</id>
+      <masked>false</masked>
+      <name>RequestDates</name>
+   </variable>
+</TestCaseEntity>

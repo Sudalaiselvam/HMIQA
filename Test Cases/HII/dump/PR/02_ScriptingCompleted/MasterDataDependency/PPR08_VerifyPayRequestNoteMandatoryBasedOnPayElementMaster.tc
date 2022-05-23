@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPR08_VerifyPayRequestNoteMandatoryBasedOnPayElementMaster</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>600d5a6a-8e0a-46f8-96f7-3c662e36427f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ProviderPayRequest/td_PPR08_VerifyPayRequestNoteMandatoryBasedOnPayElementMaster')</defaultValue>
+      <description></description>
+      <id>bae215ba-df41-44f1-83c6-47cc8b6967a2</id>
+      <masked>false</masked>
+      <name>ProviderPayRequest</name>
+   </variable>
+</TestCaseEntity>

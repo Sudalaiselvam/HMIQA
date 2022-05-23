@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR01_ValidateProviderEMRDataUI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>794665dc-7e45-40eb-9a96-0cdd8feb7d0f</testCaseGuid>
+</TestCaseEntity>

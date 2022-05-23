@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to validate ProviderGroup default value based on the General Settings Flag &quot;ProviderGroupHierarchy&quot;</description>
+   <name>PS11_ValidateProviderGroupDefaultValueBasedOnGeneralSettings</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>1f9745e5-7b07-4136-b93d-cc44282de96b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e36adf6c-5de3-438e-9bed-33fabfc1b5ee</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/01_ProviderSetup/td_PS11_ValidateProviderGroupDefaultValueBasedOnGeneralSettings</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e36adf6c-5de3-438e-9bed-33fabfc1b5ee</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>7bf6b609-247b-463f-9cd1-6135dc0f5c30</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e36adf6c-5de3-438e-9bed-33fabfc1b5ee</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Location</value>
+      <variableId>b77ba028-aae4-4161-a789-5f477fbc8f7c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Region-1'</defaultValue>
+      <description></description>
+      <id>7bf6b609-247b-463f-9cd1-6135dc0f5c30</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>'Location 123'</defaultValue>
+      <description></description>
+      <id>b77ba028-aae4-4161-a789-5f477fbc8f7c</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+</TestCaseEntity>

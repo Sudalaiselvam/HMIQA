@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script Validates Specialty Drop Down </description>
+   <name>PS10_ValidateSpecialtyDropDownList</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>efb25d24-a92e-4509-9cba-d9ab696bad23</testCaseGuid>
+</TestCaseEntity>

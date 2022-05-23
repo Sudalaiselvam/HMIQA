@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PP04-VerifyWhetherTheLoggedUserAbleToProcessAssignedRegionsORLocationsPartially</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f1650dc-1512-4c14-9d17-2e394b50caf2</testCaseGuid>
+   <variable>
+      <defaultValue>'Region-1'</defaultValue>
+      <description></description>
+      <id>b24d5609-5f6c-4319-b183-c47d9faddcde</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sunday to Saturday-2'</defaultValue>
+      <description></description>
+      <id>fc541f41-103f-475b-b6b8-393e769c5e5f</id>
+      <masked>false</masked>
+      <name>PayCycle</name>
+   </variable>
+   <variable>
+      <defaultValue>'2022'</defaultValue>
+      <description></description>
+      <id>333d2180-400c-4b6e-a61c-6ae68f760447</id>
+      <masked>false</masked>
+      <name>Year</name>
+   </variable>
+   <variable>
+      <defaultValue>'02/13/2022 - 02/26/2022'</defaultValue>
+      <description></description>
+      <id>de8d3634-38a1-4ade-83ca-d1fc0b8657a5</id>
+      <masked>false</masked>
+      <name>PayPeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>'Location 395'</defaultValue>
+      <description></description>
+      <id>d910edb3-4266-48e3-8e89-fb7d53c28f67</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA04_VerifyLocationsDropdownBasedOnTheSelectedRegionAndPayCycle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>115f4330-ae13-467f-8f2d-555e10dda92c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2f4f6cc1-660d-4c1b-b31a-10946d0b9820</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/04_ProviderPayApprovals/td_PPA04_VerifyLocationsDropdownBasedOnTheSelectedRegionAndPayCycle</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>2f4f6cc1-660d-4c1b-b31a-10946d0b9820</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>f898a17f-ce2c-42ca-b6da-30badf5f0e9e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2f4f6cc1-660d-4c1b-b31a-10946d0b9820</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PayCycle</value>
+      <variableId>016d84c3-758b-4402-accd-c9671c5784f7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f898a17f-ce2c-42ca-b6da-30badf5f0e9e</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>016d84c3-758b-4402-accd-c9671c5784f7</id>
+      <masked>false</masked>
+      <name>PayCycle</name>
+   </variable>
+</TestCaseEntity>

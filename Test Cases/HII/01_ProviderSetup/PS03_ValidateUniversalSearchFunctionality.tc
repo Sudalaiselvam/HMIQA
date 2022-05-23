@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Script is to validate Universal Search Functionality</description>
+   <name>PS03_ValidateUniversalSearchFunctionality</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>b3c028ce-0d86-41d7-be3c-2c4f299a0477</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>abf05538-8689-414c-ae61-e29f0b503db1</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/01_ProviderSetup/td_PS03_ValidateUniversalSearchFunctionality</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>abf05538-8689-414c-ae61-e29f0b503db1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UniversalSearch</value>
+      <variableId>6289ef3b-637e-49a9-a26c-b365535b560c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'abcd'</defaultValue>
+      <description></description>
+      <id>6289ef3b-637e-49a9-a26c-b365535b560c</id>
+      <masked>false</masked>
+      <name>UniversalSearch</name>
+   </variable>
+</TestCaseEntity>

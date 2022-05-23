@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPA16_PayPeriodAndPeriodColumnDataBasedOnTheSinglePayRequestAndPayRequestImport</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf8e5ff0-3231-41ff-9c86-f712dae19aa6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c1962247-8e66-4301-ae96-5bca640ef858</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/04_ProviderPayApprovals/td_PPA16_PayPeriodAndPeriodColumnDataBasedOnTheSinglePayRequestAndPayRequestImport</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33c89e86-a733-47df-86ce-4dcf7d76d554</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c1962247-8e66-4301-ae96-5bca640ef858</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Provider</value>
+      <variableId>e4965c11-506b-4dc6-92c2-c5ff4227f7e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c1962247-8e66-4301-ae96-5bca640ef858</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ServiceDate</value>
+      <variableId>786163e3-8ab7-46e8-a37a-c6f7848679d6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('ProviderPayApprovals/td_PPA35_PayPeriodAndPeriodColumnDataBasedOnTheSinglePayRequestAndPayRequestImport')</defaultValue>
+      <description></description>
+      <id>33c89e86-a733-47df-86ce-4dcf7d76d554</id>
+      <masked>false</masked>
+      <name>ProviderPayApprovals</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4965c11-506b-4dc6-92c2-c5ff4227f7e4</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>786163e3-8ab7-46e8-a37a-c6f7848679d6</id>
+      <masked>false</masked>
+      <name>ServiceDate</name>
+   </variable>
+</TestCaseEntity>
